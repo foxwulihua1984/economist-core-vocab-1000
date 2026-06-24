@@ -1,0 +1,527 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Module 01｜经济金融核心词100个｜经济学人核心词汇1000</title>
+  <style>.access-lock{position:fixed;inset:0;z-index:9999;display:none;align-items:center;justify-content:center;padding:22px;background:rgba(243,246,248,.96);backdrop-filter:blur(10px)}.access-lock.is-visible{display:flex}.access-panel{width:min(420px,100%);border:1px solid #d9dee7;border-radius:8px;background:#fff;padding:24px;box-shadow:0 18px 50px rgba(32,33,36,.12)}.access-panel h2{margin:0 0 8px;font-size:22px;line-height:1.3;letter-spacing:0}.access-panel p{margin:0 0 16px;color:#62656a;font-size:14px;line-height:1.7}.access-row{display:flex;gap:8px}.access-row input{min-width:0;flex:1;height:40px;border:1px solid #d9dee7;border-radius:8px;padding:0 12px;font-size:15px;outline:none}.access-error{min-height:20px;margin-top:10px!important;color:#a63333!important;font-size:13px!important}.access-note{margin-top:14px!important;font-size:12px!important}.brand-watermark{position:fixed;right:14px;bottom:12px;z-index:20;pointer-events:none;color:rgba(20,122,103,.42);font-size:12px;line-height:1.5;text-align:right;background:rgba(255,255,255,.55);border:1px solid rgba(217,222,231,.7);border-radius:8px;padding:6px 8px;backdrop-filter:blur(6px)}.license-note{margin:18px 0 0;color:#62656a;font-size:12px;line-height:1.7;text-align:center}@media(max-width:560px){.access-row{flex-direction:column}.access-row button{width:100%}.brand-watermark{right:10px;bottom:8px;font-size:11px}}
+    :root {
+      color-scheme: light;
+      --ink: #202124;
+      --muted: #62656a;
+      --line: #d9dee7;
+      --paper: #ffffff;
+      --wash: #f3f6f8;
+      --accent: #147a67;
+      --accent-2: #a44925;
+      --good: #1f7a4d;
+      --bad: #a63333;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+      color: var(--ink);
+      background: linear-gradient(180deg, #edf2f4 0%, #f8fafb 42%, #fff 100%);
+    }
+    .app {
+      width: min(960px, calc(100vw - 32px));
+      margin: 0 auto;
+      padding: 28px 0 36px;
+    }
+    .brandbar {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      align-items: center;
+      padding: 9px 12px;
+      margin-bottom: 16px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: rgba(255,255,255,.78);
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.5;
+    }
+    .brandbar strong {
+      color: var(--accent);
+    }
+    header {
+      display: grid;
+      gap: 10px;
+      margin-bottom: 18px;
+    }
+    h1 {
+      margin: 0;
+      font-size: clamp(26px, 4vw, 42px);
+      line-height: 1.12;
+      letter-spacing: 0;
+    }
+    .sub {
+      margin: 0;
+      color: var(--muted);
+      font-size: 15px;
+      line-height: 1.7;
+    }
+    .toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 10px;
+      padding: 12px;
+      margin: 18px 0;
+      background: rgba(255,255,255,.72);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+    }
+    select, button {
+      height: 38px;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      background: #fff;
+      color: var(--ink);
+      font-size: 14px;
+      padding: 0 12px;
+    }
+    button {
+      cursor: pointer;
+      font-weight: 650;
+    }
+    button.primary {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+    button.ghost {
+      background: transparent;
+    }
+    .stats {
+      margin-left: auto;
+      display: flex;
+      gap: 14px;
+      color: var(--muted);
+      font-size: 14px;
+      white-space: nowrap;
+    }
+    .stage {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr);
+      gap: 14px;
+    }
+    .card {
+      position: relative;
+      overflow: hidden;
+      min-height: 430px;
+      display: grid;
+      align-content: center;
+      gap: 18px;
+      padding: clamp(22px, 5vw, 46px);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--paper);
+      box-shadow: 0 14px 34px rgba(22, 35, 48, .09);
+    }
+    .card::before {
+      content: "一天一篇经济学人";
+      position: absolute;
+      inset: 0;
+      display: grid;
+      place-items: center;
+      transform: rotate(-18deg);
+      font-size: clamp(36px, 8vw, 78px);
+      font-weight: 800;
+      color: rgba(20, 122, 103, .055);
+      pointer-events: none;
+      white-space: nowrap;
+    }
+    .meta {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      color: var(--muted);
+      font-size: 14px;
+    }
+    .tag {
+      color: var(--accent);
+      font-weight: 750;
+    }
+    .difficulty-tag {
+      flex: 0 0 auto;
+      border: 1px solid rgba(20, 122, 103, .22);
+      border-radius: 999px;
+      padding: 2px 8px;
+      color: #147a67;
+      background: rgba(20, 122, 103, .07);
+      font-size: 12px;
+      font-weight: 750;
+    }
+    .word {
+      margin: 0;
+      font-size: clamp(44px, 10vw, 82px);
+      line-height: 1;
+      letter-spacing: 0;
+      overflow-wrap: anywhere;
+    }
+    .phonetic {
+      color: var(--accent-2);
+      font-size: 19px;
+      font-weight: 650;
+    }
+    .word-info { display: flex; align-items: center; justify-content: flex-start; gap: 10px; flex-wrap: wrap; margin-bottom: 18px; }
+    .word-info .phonetic { margin-bottom: 0; }
+    .pos { color: #147a67; border: 1px solid rgba(20,122,103,.28); background: rgba(20,122,103,.08); border-radius: 999px; padding: 3px 9px; font-size: 14px; font-weight: 700; }
+    .prompt {
+      margin: 0;
+      font-size: clamp(18px, 3vw, 25px);
+      line-height: 1.55;
+    }
+    .answer {
+      display: none;
+      padding-top: 12px;
+      border-top: 1px solid var(--line);
+      gap: 12px;
+    }
+    .answer.show {
+      display: grid;
+    }
+    .answer p {
+      margin: 0;
+      line-height: 1.75;
+      font-size: 15px;
+    }
+    .listenbar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-items: center;
+      padding: 12px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--wash);
+    }
+    .listenbar button,
+    .listenbar select {
+      height: 36px;
+      font-size: 13px;
+    }
+    .listenbar .hint {
+      margin-left: auto;
+      color: var(--muted);
+      font-size: 12px;
+      white-space: nowrap;
+    }
+    .label {
+      position: relative;
+      display: inline-block;
+      color: var(--muted);
+      font-weight: 800;
+      margin-right: 6px;
+      padding-bottom: 2px;
+    }
+    .label::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: -1px;
+      height: 3px;
+      border-radius: 999px;
+      background: currentColor;
+      opacity: .9;
+    }
+    .label-meaning { color: #147a67; }
+    .label-translation { color: #147a67; }
+    .label-collocations { color: #147a67; }
+    .label-writing { color: #147a67; }
+    .actions {
+      display: grid;
+      grid-template-columns: repeat(5, minmax(0, 1fr));
+      gap: 10px;
+    }
+    .actions button {
+      height: 44px;
+    }
+    .copyright {
+      margin: 12px 2px 0;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.7;
+      text-align: center;
+    }
+    .good { color: var(--good); }
+    .bad { color: var(--bad); }
+    @media (max-width: 680px) {
+      .app { width: min(100vw - 20px, 960px); padding-top: 18px; }
+      .toolbar { align-items: stretch; }
+      select, .toolbar button { flex: 1 1 calc(50% - 10px); }
+      .stats { width: 100%; margin-left: 0; justify-content: space-between; }
+      .listenbar > * { flex: 1 1 calc(50% - 10px); }
+      .listenbar .hint { width: 100%; margin-left: 0; text-align: center; }
+      .card { min-height: 480px; }
+      .actions { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    }
+  </style>
+</head>
+<body>
+<div class="access-lock" id="accessLock" aria-modal="true" role="dialog"><div class="access-panel"><h2>请输入学习口令</h2><p>《经济学人核心词汇1000》为内部学习资料，仅供本人使用。</p><div class="access-row"><input id="accessPassword" type="password" autocomplete="current-password" placeholder="输入访问密码"><button id="accessSubmit" type="button">进入学习</button></div><p class="access-error" id="accessError"></p><p class="access-note">请勿转发、售卖或公开传播本页面链接。</p></div></div><div class="brand-watermark">一天一篇经济学人<br>内部学习版</div>
+  <main class="app">
+    <div class="brandbar">
+      <span><strong>一天一篇经济学人</strong> 经济学人核心词汇1000｜正式学习版</span>
+      <span>个人学习版</span>
+    </div>
+    <header>
+      <h1>Module 01｜经济金融核心词100个</h1>
+      <p class="sub">覆盖宏观经济、财政、央行、市场、产业与供应链。每张卡片都按“中文释义—参考翻译—核心搭配—写作仿句”设计，方便阅读、翻译和写作迁移。</p>
+    </header>
+
+    <section class="toolbar" aria-label="练习设置">
+      
+      <button id="shuffle" class="ghost" type="button">随机</button>
+      <button id="reset" class="ghost" type="button">重置进度</button>
+      <div class="stats">
+        <span id="counter">1 / 100</span>
+        <span class="good">会 <b id="known">0</b></span>
+        <span class="bad">复习 <b id="again">0</b></span>
+      </div>
+    </section>
+
+    <section class="stage">
+      <article class="card" aria-live="polite">
+        <div class="meta">
+          <span id="number">001</span>
+          <span id="cardTopic" class="tag">经济金融</span>
+          <span id="difficulty" class="difficulty-tag">基础</span>
+        </div>
+        <h2 id="word" class="word">resilience</h2>
+        <div class="word-info"><span id="phonetic" class="phonetic">/rɪˈzɪliəns/</span><span id="pos" class="pos" hidden></span></div>
+        <p id="prompt" class="prompt">The economy has shown surprising resilience despite higher interest rates.</p>
+        <div class="listenbar" id="audioBar" aria-label="单词音频" hidden>
+          <button id="playWord" type="button">听单词</button>
+          <button id="autoPlay" type="button" class="ghost" aria-pressed="false">自动跟读：关</button>
+          <span id="audioHint" class="hint">真人感音频</span>
+        </div>
+        <div id="answer" class="answer">
+          <p><span class="label label-meaning">中文释义</span><span id="meaning"></span></p>
+          <p><span class="label label-translation">参考翻译</span><span id="translation"></span></p>
+          <p><span class="label label-collocations">核心搭配</span><span id="collocations"></span></p>
+          <p><span class="label label-writing">写作仿句</span><span id="writing"></span></p>
+        </div>
+      </article>
+      <div class="actions">
+        <button id="prev" type="button">上一张</button>
+        <button id="show" type="button">查看解析</button>
+        <button id="nextBtn" class="primary" type="button">下一张</button>
+        <button id="againBtn" type="button">加入复习</button>
+        <button id="knownBtn" type="button">我会了</button>
+      </div>
+    </section>
+    <p class="copyright">© 一天一篇经济学人｜仅供个人学习使用，请勿二次售卖、拆包转卖或上传公开平台。</p>
+  </main>
+
+  <script>
+    const cards = [{"编号":"001","主题":"经济金融核心词","单词":"resilience","音标":"/rɪˈzɪliəns/","难度等级":"进阶","外刊语境短句":"The economy's resilience has surprised investors and policymakers alike.","中文释义":"韧性；经济或市场承受冲击后的恢复力。","参考翻译":"经济展现出的韧性，让投资者和政策制定者都颇感意外。","核心搭配":"economic resilience; market resilience; resilient supply chains","搭配译法":"经济韧性；市场韧性；韧性供应链","写作仿句":"What kept this bank alive was not luck but resilience built up over years of boring caution.","仿句译文":"这家银行能活下来，靠的不是运气，而是多年谨慎经营积累下来的韧性。","词性":"n."},{"编号":"002","主题":"经济金融核心词","单词":"inflation","音标":"/ɪnˈfleɪʃən/","难度等级":"基础","外刊语境短句":"Inflation is easing, but prices remain painfully high for households.","中文释义":"通货膨胀；物价持续上涨。","参考翻译":"通胀正在退烧，但对普通家庭来说，物价仍高得肉疼。","核心搭配":"sticky inflation; feel the pinch; take sth with a pinch of salt","搭配译法":"顽固通胀；感到手头吃紧、日子难过；对某事半信半疑、不可全信","写作仿句":"Inflation is cooling on paper, yet grocery bills tell a stubborner story.","仿句译文":"通胀数据看似降温，可日常购物的花费依然顽固得多。","词性":"n."},{"编号":"003","主题":"经济金融核心词","单词":"deflation","音标":"/diːˈfleɪʃən/","难度等级":"基础","外刊语境短句":"Deflation can make consumers delay spending and firms postpone investment.","中文释义":"通缩；物价水平持续下降。","参考翻译":"通缩会让消费者推迟花钱，也会让企业延后投资。","核心搭配":"deflationary pressure; deflation spiral; fight deflation","搭配译法":"通缩压力；通缩螺旋；对抗通缩","写作仿句":"Why worry about deflation? Because falling prices also mean falling wages, falling profits, falling everything.","仿句译文":"为什么担心通缩？因为下跌的不只是物价，还有工资、利润，乃至整个经济的信心。","词性":"n."},{"编号":"004","主题":"经济金融核心词","单词":"stagnation","音标":"/stæɡˈneɪʃən/","难度等级":"基础","外刊语境短句":"Wage stagnation has made growth feel hollow to many workers.","中文释义":"停滞；增长乏力，尤其指工资或生产率长期没起色。","参考翻译":"工资停滞，让许多劳动者觉得所谓增长不过是镜花水月。","核心搭配":"economic stagnation; wage stagnation; secular stagnation","搭配译法":"经济停滞；工资停滞；长期停滞","写作仿句":"Whether described as stagnation or merely a plateau, wages have shown no real growth for years.","仿句译文":"无论称之为停滞还是仅仅的平台期，工资多年来都未见真正增长。","词性":"n."},{"编号":"005","主题":"经济金融核心词","单词":"recession","音标":"/rɪˈseʃən/","难度等级":"基础","外刊语境短句":"A recession would expose weaknesses that cheap money used to hide.","中文释义":"衰退；经济活动持续萎缩。","参考翻译":"一场衰退会暴露出廉价资金曾经掩盖的弱点。","核心搭配":"technical recession; deep recession; recession risk","搭配译法":"技术性衰退；深度衰退；衰退风险","写作仿句":"Two quarters of shrinking output, and the word recession starts appearing in every headline.","仿句译文":"产出连续两个季度萎缩之后，“衰退”这个词就会挤进每一条新闻标题。","词性":"n."},{"编号":"006","主题":"经济金融核心词","单词":"slowdown","音标":"/ˈsləʊdaʊn/","难度等级":"基础","外刊语境短句":"The slowdown has spread from factories to consumer services.","中文释义":"放缓；经济、需求或行业增长速度下降。","参考翻译":"这轮放缓已从工厂蔓延到消费服务业。","核心搭配":"economic slowdown; growth slowdown; sharp slowdown","搭配译法":"经济放缓；增长放缓；急剧放缓","写作仿句":"Factories are not collapsing, just easing into a slowdown nobody quite wants to name.","仿句译文":"工厂并没有崩溃，只是悄悄滑入了一场谁都不愿点破的放缓。","词性":"n."},{"编号":"007","主题":"经济金融核心词","单词":"downturn","音标":"/ˈdaʊntɜːrn/","难度等级":"基础","外刊语境短句":"The property downturn has become a drag on the wider economy.","中文释义":"下行；低迷；景气回落。","参考翻译":"房地产市场下行已成整个经济的拖累。","核心搭配":"economic downturn; market downturn; property downturn","搭配译法":"经济下行；市场低迷；房地产下行","写作仿句":"This downturn did not arrive with a crash; it arrived with a thousand small disappointments.","仿句译文":"这场下行不是以崩盘开场，而是由无数个小小的失望慢慢堆出来的。","词性":"n."},{"编号":"008","主题":"经济金融核心词","单词":"rebound","音标":"/rɪˈbaʊnd/","难度等级":"基础","外刊语境短句":"Exports rebounded after months of weak demand.","中文释义":"反弹；从低点回升。","参考翻译":"需求疲软数月之后，出口终于出现反弹。","核心搭配":"sharp rebound; rebound in demand; market rebound","搭配译法":"急剧反弹；需求回升；市场反弹","写作仿句":"Exports staged a modest rebound this quarter, the first real bright spot in a year.","仿句译文":"出口本季度出现了温和反弹，这是一年来第一个真正的亮点。","词性":"n./v."},{"编号":"009","主题":"经济金融核心词","单词":"recovery","音标":"/rɪˈkʌvəri/","难度等级":"基础","外刊语境短句":"The recovery is real, but it remains uneven across regions.","中文释义":"复苏；经济从低迷中恢复。","参考翻译":"复苏确实在发生，但各地区冷热不均。","核心搭配":"fragile recovery; uneven recovery; economic recovery","搭配译法":"脆弱复苏；不均衡复苏；经济复苏","写作仿句":"Recovery, it turns out, does not arrive evenly; some streets get it back before others.","仿句译文":"复苏从来不是平均落下的雨：有些街区先缓过来，有些还在原地等。","词性":"n."},{"编号":"010","主题":"经济金融核心词","单词":"contraction","音标":"/kənˈtrækʃən/","难度等级":"进阶","外刊语境短句":"A contraction in credit is starting to hurt small firms.","中文释义":"收缩；经济、信贷或行业活动下降。","参考翻译":"信贷收缩开始伤及小企业。","核心搭配":"economic contraction; credit contraction; demand contraction","搭配译法":"经济收缩；信贷收缩；需求收缩","写作仿句":"A sharp contraction in lending is usually the first sign that a downturn is no longer theoretical.","仿句译文":"信贷急剧收缩，往往意味着下行已不再只是纸面上的推演。","词性":"n."},{"编号":"011","主题":"经济金融核心词","单词":"stimulus","音标":"/ˈstɪmjələs/","难度等级":"基础","外刊语境短句":"Stimulus can buy time, but it cannot replace reform.","中文释义":"刺激措施；财政或货币刺激政策。","参考翻译":"刺激政策能买来时间，却替代不了真正的改革。","核心搭配":"fiscal stimulus; monetary stimulus; stimulus package","搭配译法":"财政刺激；货币刺激；刺激方案","写作仿句":"Without the stimulus, this recovery might never have left the ground at all.","仿句译文":"没有这笔刺激资金，这轮复苏可能根本起不来。","词性":"n."},{"编号":"012","主题":"经济金融核心词","单词":"austerity","音标":"/ɔːˈsterəti/","难度等级":"进阶","外刊语境短句":"Austerity may calm investors while enraging voters.","中文释义":"财政紧缩；削减开支、压缩赤字的政策。","参考翻译":"财政紧缩也许能安抚投资者，却很容易点燃选民怒火。","核心搭配":"austerity measures; fiscal austerity; austerity politics","搭配译法":"紧缩措施；财政紧缩；围绕紧缩的政治博弈","写作仿句":"Years of austerity later, the roads are worse, the schools are emptier, and the deficit is still there.","仿句译文":"好几年的紧缩之后，路更差了，学校更空了，赤字却还在。","词性":"n."},{"编号":"013","主题":"经济金融核心词","单词":"subsidy","音标":"/ˈsʌbsədi/","难度等级":"基础","外刊语境短句":"Subsidies are returning as governments try to rebuild industry.","中文释义":"补贴；政府对企业、行业或消费者的资金支持。","参考翻译":"各国政府试图重建产业，补贴也随之回潮。","核心搭配":"industrial subsidies; energy subsidies; farm subsidies","搭配译法":"产业补贴；能源补贴；农业补贴","写作仿句":"Withdrawing the subsidy would leave half these farms unable to survive the next harvest.","仿句译文":"一旦撤掉这笔补贴，这些农场里有一半将撑不过下一季收成。","词性":"n."},{"编号":"014","主题":"经济金融核心词","单词":"tax break","音标":"/ˈtæks breɪk/","难度等级":"基础","外刊语境短句":"Tax breaks are often sold as a painless way to attract investment.","中文释义":"税收减免；税收优惠。","参考翻译":"税收减免常被包装成一种“无痛”的招商办法。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"A decade-long tax break sounds generous, although it is unclear what it actually bought the public.","仿句译文":"长达十年的税收减免听起来很慷慨，但它到底给公众买来了什么，却并不清楚。","词性":""},{"编号":"015","主题":"经济金融核心词","单词":"fiscal policy","音标":"/ˈfɪskəl ˈpɒləsi/","难度等级":"进阶","外刊语境短句":"Fiscal policy has become more activist since the pandemic.","中文释义":"财政政策；政府通过税收和支出调节经济。","参考翻译":"疫情之后，财政政策变得更愿意主动出手。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"Spending now and taxing later has been the unofficial fiscal policy of this government for years.","仿句译文":"现在花钱、以后收税——这就是这届政府多年来不成文的财政政策。","词性":""},{"编号":"016","主题":"经济金融核心词","单词":"monetary policy","音标":"/ˈmʌnɪtəri ˈpɒləsi/","难度等级":"进阶","外刊语境短句":"Monetary policy works slowly, but markets react instantly.","中文释义":"货币政策；央行通过利率、货币供应等调节经济。","参考翻译":"货币政策传导很慢，市场反应却总是抢跑。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"Two members of the committee pushed for tighter monetary policy; the rest wanted to wait and see.","仿句译文":"委员会里两名成员主张收紧货币政策，其余人想再等等看。","词性":""},{"编号":"017","主题":"经济金融核心词","单词":"rate cut","音标":"/ˈreɪt kʌt/","难度等级":"基础","外刊语境短句":"Markets are betting on a rate cut before growth deteriorates further.","中文释义":"降息；央行下调利率。","参考翻译":"市场押注央行会在增长进一步恶化前降息。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"Borrowers cheered the rate cut before the paperwork had even caught up with them.","仿句译文":"降息消息一出，借款人已经先欢呼起来，手续文件都还没来得及跟上。","词性":""},{"编号":"018","主题":"经济金融核心词","单词":"rate hike","音标":"/ˈreɪt haɪk/","难度等级":"基础","外刊语境短句":"Another rate hike would raise borrowing costs for households and firms.","中文释义":"加息；央行上调利率。","参考翻译":"若再次加息，家庭和企业的借贷成本都会上升。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"Every rate hike lands on someone's mortgage statement within weeks.","仿句译文":"每一次加息，几周内都会出现在某个人的房贷账单上。","词性":""},{"编号":"019","主题":"经济金融核心词","单词":"quantitative easing","音标":"/ˈkwɒntɪtətɪv ˈiːzɪŋ/","难度等级":"高阶","外刊语境短句":"Quantitative easing blurred the line between monetary policy and market support.","中文释义":"量化宽松；央行购债释放流动性。","参考翻译":"量化宽松模糊了货币政策与市场托底之间的界线。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"Quantitative easing pushed yields down almost exactly as the textbooks promised it would.","仿句译文":"量化宽松压低了收益率，几乎完全照着教科书的剧本走。","词性":""},{"编号":"020","主题":"经济金融核心词","单词":"tightening","音标":"/ˈtaɪtənɪŋ/","难度等级":"进阶","外刊语境短句":"Policy tightening is beginning to bite.","中文释义":"收紧；政策或金融环境变紧。","参考翻译":"政策收紧的痛感，已经开始显现。","核心搭配":"monetary tightening; credit tightening; financial tightening","搭配译法":"货币收紧；信贷收紧；金融环境收紧","写作仿句":"First came the warnings, then came the tightening, then came the layoffs.","仿句译文":"先是警告，接着是收紧政策，再后来就是裁员。","词性":"n."},{"编号":"021","主题":"经济金融核心词","单词":"central bank","音标":"/ˈsentrəl bæŋk/","难度等级":"基础","外刊语境短句":"Central banks are reluctant to declare victory over inflation.","中文释义":"中央银行；负责货币政策的机构。","参考翻译":"各国央行仍不愿宣布抗通胀胜利。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"Twelve people on a central bank committee set the price of money for the rest of us.","仿句译文":"央行委员会里的十几个人，替我们所有人定下了钱的价格。","词性":""},{"编号":"022","主题":"经济金融核心词","单词":"Federal Reserve","音标":"/ˈfedərəl rɪˈzɜːrv/","难度等级":"进阶","外刊语境短句":"The Federal Reserve's signals shape financial conditions worldwide.","中文释义":"美联储；美国中央银行体系。","参考翻译":"美联储释放的信号会影响全球金融环境。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"Wall Street studies Federal Reserve press releases the way astrologers study the stars.","仿句译文":"华尔街研究美联储新闻稿的认真劲儿，堪比占星师研究星象。","词性":""},{"编号":"023","主题":"经济金融核心词","单词":"interest rate","音标":"/ˈɪntrəst reɪt/","难度等级":"基础","外刊语境短句":"Higher interest rates have changed the arithmetic of investment.","中文释义":"利率；借贷资金的价格。","参考翻译":"利率走高，已经改变了投资这笔账的算法。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"Lowering the interest rate by two points makes almost any project look brilliant on paper.","仿句译文":"利率下调两个百分点，几乎能让任何项目在测算中显得更可行。","词性":""},{"编号":"024","主题":"经济金融核心词","单词":"bond yield","音标":"/ˈbɒnd jiːld/","难度等级":"进阶","外刊语境短句":"Rising bond yields have unsettled both governments and investors.","中文释义":"债券收益率。","参考翻译":"债券收益率上升，让政府和投资者都坐不住了。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"The direction of the ten-year bond yield reveals what the market actually believes.","仿句译文":"十年期债券收益率的走向，揭示了市场到底相信什么。","词性":""},{"编号":"025","主题":"经济金融核心词","单词":"yield curve","音标":"/ˈjiːld kɜːrv/","难度等级":"高阶","外刊语境短句":"An inverted yield curve has long been read as a warning sign.","中文释义":"收益率曲线；不同期限债券收益率关系。","参考翻译":"收益率曲线倒挂，长期以来都被视为一种预警信号。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"A flat yield curve worries economists; an inverted one tends to worry everyone else too.","仿句译文":"平坦的收益率曲线让经济学家担心；倒挂的曲线则连普通人也会跟着担心。","词性":""},{"编号":"026","主题":"经济金融核心词","单词":"borrowing cost","音标":"/ˈbɒrəʊɪŋ kɒst/","难度等级":"进阶","外刊语境短句":"Borrowing costs have risen fastest for riskier firms.","中文释义":"借贷成本；借钱所需支付的代价。","参考翻译":"风险越高的企业，借钱成本涨得越快。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"Once cheap, borrowing costs have tripled for firms with weaker balance sheets.","仿句译文":"借贷成本曾经低廉；如今对资产负债表较弱的企业来说，已经涨到了原来的三倍。","词性":""},{"编号":"027","主题":"经济金融核心词","单词":"liquidity","音标":"/lɪˈkwɪdəti/","难度等级":"基础","外刊语境短句":"When liquidity dries up, fear spreads quickly.","中文释义":"流动性；资金周转和资产交易顺畅程度。","参考翻译":"一旦流动性枯竭，恐慌就会迅速扩散。","核心搭配":"market liquidity; liquidity crunch; provide liquidity","搭配译法":"市场流动性；流动性紧缩；提供流动性","写作仿句":"Markets that appear to have deep liquidity can turn shallow the moment everyone tries to sell at once.","仿句译文":"看似流动性深厚的市场，一旦所有人同时想卖，也会瞬间变浅。","词性":""},{"编号":"028","主题":"经济金融核心词","单词":"credit crunch","音标":"/ˈkredɪt krʌntʃ/","难度等级":"进阶","外刊语境短句":"A credit crunch would hit small businesses first.","中文释义":"信贷紧缩；贷款骤然变难或变贵。","参考翻译":"信贷紧缩首先会冲击小企业。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"Although the credit crunch began in the banking sector, its effects were felt first by small businesses.","仿句译文":"信贷紧缩虽然始于银行业，最先感到疼的却往往是小企业。","词性":""},{"编号":"029","主题":"经济金融核心词","单词":"lender of last resort","音标":"/ˈlendər əv ˌlɑːst rɪˈzɔːrt/","难度等级":"高阶","外刊语境短句":"In a panic, the central bank becomes the lender of last resort.","中文释义":"最后贷款人；危机中提供紧急流动性的机构。","参考翻译":"恐慌来临时，央行便成了最后贷款人。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"Whenever private lenders retreat, the central bank must step in as lender of last resort.","仿句译文":"每当私人贷款机构退场，央行就必须以最后贷款人的身份介入。","词性":""},{"编号":"030","主题":"经济金融核心词","单词":"policy rate","音标":"/ˈpɒləsi reɪt/","难度等级":"进阶","外刊语境短句":"The policy rate is high, but real rates may be higher still.","中文释义":"政策利率；央行设定的基准利率。","参考翻译":"政策利率已经处在高位，实际利率可能还要更高。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"Setting the policy rate too low allows inflation to return, while setting it too high causes growth to quietly die.","仿句译文":"政策利率定得太低，会让通胀重新抬头；定得太高，则会让增长悄然枯竭。","词性":""},{"编号":"031","主题":"经济金融核心词","单词":"deficit","音标":"/ˈdefɪsɪt/","难度等级":"进阶","外刊语境短句":"A widening deficit limits the government's room for manoeuvre.","中文释义":"赤字；财政收入少于支出，也可指逆差或不足。","参考翻译":"赤字扩大，政府的回旋余地也随之缩小。","核心搭配":"budget deficit; fiscal deficit; trade deficit","搭配译法":"预算赤字；财政赤字；贸易逆差","写作仿句":"This year's deficit is not an anomaly but the continuation of a decade-long pattern.","仿句译文":"今年的赤字不是个例，而是延续了过去十年的一贯模式。","词性":"n."},{"编号":"032","主题":"经济金融核心词","单词":"surplus","音标":"/ˈsɜːrpləs/","难度等级":"进阶","外刊语境短句":"A trade surplus can hide weakness in domestic demand.","中文释义":"盈余；顺差；过剩。","参考翻译":"贸易顺差可能掩盖内需疲弱。","核心搭配":"trade surplus; budget surplus; surplus capacity","搭配译法":"贸易顺差；预算盈余；过剩产能","写作仿句":"A persistent surplus can flatter an economy's headline numbers while masking weak domestic demand.","仿句译文":"持续的顺差能让宏观数据显得亮眼，却可能掩盖疲软的内需。","词性":"n."},{"编号":"033","主题":"经济金融核心词","单词":"sovereign debt","音标":"/ˈsɒvrɪn det/","难度等级":"进阶","外刊语境短句":"Sovereign debt worries have returned as rates rise.","中文释义":"主权债务；国家政府发行或承担的债务。","参考翻译":"随着利率上升，主权债务忧虑卷土重来。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"Investors who once bought this country's sovereign debt without hesitation now demand a higher premium.","仿句译文":"曾经毫不犹豫购买这个国家主权债务的投资者，如今要求更高的溢价。","词性":""},{"编号":"034","主题":"经济金融核心词","单词":"default","音标":"/dɪˈfɔːlt/","难度等级":"基础","外刊语境短句":"Default would damage the country's access to capital markets.","中文释义":"违约；未能按期履行债务义务。","参考翻译":"一旦违约，该国进入资本市场融资的能力将受损。","核心搭配":"debt default; sovereign default; default risk","搭配译法":"债务违约；主权违约；违约风险","写作仿句":"A single missed payment can push a struggling government from distress into outright default.","仿句译文":"一次错过的偿付，就可能让一个本已陷入困境的政府彻底滑向违约。","词性":"n./v."},{"编号":"035","主题":"经济金融核心词","单词":"solvency","音标":"/ˈsɒlvənsi/","难度等级":"进阶","外刊语境短句":"A liquidity problem can become a solvency problem overnight.","中文释义":"偿付能力；长期还债能力。","参考翻译":"流动性问题可能在一夜之间演变为偿付能力问题。","核心搭配":"solvency risk; solvency crisis; insolvency","搭配译法":"偿付能力风险；偿付能力危机；资不抵债","写作仿句":"A firm can hold ample cash and still face a genuine solvency crisis once its debts come due.","仿句译文":"一家公司可以手握充裕现金，却仍可能在债务到期时面临真正的偿付能力危机。","词性":"n."},{"编号":"036","主题":"经济金融核心词","单词":"debt burden","音标":"/ˈdet bɜːrdən/","难度等级":"进阶","外刊语境短句":"The debt burden is heavier when growth is weak.","中文释义":"债务负担。","参考翻译":"增长乏力时，债务负担会显得更沉。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"As interest rates climbed, the country's debt burden grew heavier than its growth could support.","仿句译文":"随着利率攀升，这个国家的债务负担变得比其增长所能承受的更为沉重。","词性":""},{"编号":"037","主题":"经济金融核心词","单词":"debt ceiling","音标":"/ˈdet ˌsiːlɪŋ/","难度等级":"进阶","外刊语境短句":"The debt ceiling has turned routine financing into political theatre.","中文释义":"债务上限。","参考翻译":"债务上限把例行融资拖成了一出政治戏。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"Congress now negotiates the debt ceiling so routinely that markets barely react until the deadline nears.","仿句译文":"国会如今谈判债务上限已成惯例，市场往往要到截止日临近才会有所反应。","词性":""},{"编号":"038","主题":"经济金融核心词","单词":"debt servicing","音标":"/ˈdet ˌsɜːrvɪsɪŋ/","难度等级":"进阶","外刊语境短句":"Debt servicing now consumes a larger share of government revenue.","中文释义":"债务付息；偿还债务利息和本金的开支。","参考翻译":"如今，还本付息吞掉了政府收入中更大的一块。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"Debt servicing now consumes a larger share of the budget than education or defence.","仿句译文":"如今偿债支出占预算的比例，已经超过了教育或国防。","词性":""},{"编号":"039","主题":"经济金融核心词","单词":"fiscal space","音标":"/ˈfɪskəl speɪs/","难度等级":"进阶","外刊语境短句":"Governments with little fiscal space must choose priorities carefully.","中文释义":"财政空间；政府继续支出或举债的余地。","参考翻译":"财政空间有限，政府就必须更谨慎地排定优先事项。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"A country with no fiscal space left can no longer respond to the next shock with spending.","仿句译文":"一个已经没有财政空间的国家，再也无法用支出来应对下一场冲击。","词性":""},{"编号":"040","主题":"经济金融核心词","单词":"public finances","音标":"/ˈpʌblɪk ˈfaɪnænsɪz/","难度等级":"进阶","外刊语境短句":"Public finances are under strain from ageing and higher interest costs.","中文释义":"公共财政；政府财政状况。","参考翻译":"老龄化和更高利息成本正让公共财政承压。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"Sound public finances do not guarantee prosperity, but their absence almost always guarantees crisis.","仿句译文":"稳健的公共财政未必能保证繁荣，但其缺失几乎总会招致危机。","词性":""},{"编号":"041","主题":"经济金融核心词","单词":"asset","音标":"/ˈæset/","难度等级":"进阶","外刊语境短句":"Housing remains the main asset for most households.","中文释义":"资产；也可指优势。","参考翻译":"住房仍是大多数家庭最主要的资产。","核心搭配":"asset prices; risky assets; asset allocation","搭配译法":"资产价格；风险资产；资产配置","写作仿句":"For most households, the family home remains their single largest asset.","仿句译文":"对大多数家庭而言，自住房产仍是他们最大的一项资产。","词性":"n."},{"编号":"042","主题":"经济金融核心词","单词":"asset bubble","音标":"/ˈæset ˈbʌbəl/","难度等级":"进阶","外刊语境短句":"Cheap money helped inflate an asset bubble.","中文释义":"资产泡沫；资产价格脱离基本面的虚高。","参考翻译":"廉价资金助推了资产泡沫。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"Few economists dispute that the housing market shows signs of an asset bubble.","仿句译文":"很少有经济学家会否认，楼市已显露出资产泡沫的迹象。","词性":""},{"编号":"043","主题":"经济金融核心词","单词":"valuation","音标":"/ˌvæljuˈeɪʃən/","难度等级":"进阶","外刊语境短句":"Lofty valuations leave little room for disappointment.","中文释义":"估值；资产或公司价格水平判断。","参考翻译":"估值越高，市场越容不得失望。","核心搭配":"lofty valuations; valuation gap; valuation premium","搭配译法":"高企估值；估值差距；估值溢价","写作仿句":"Such a lofty valuation can only be justified by years of uninterrupted profit growth.","仿句译文":"如此高企的估值，只有连续多年不间断的利润增长才能支撑得起。","词性":"n."},{"编号":"044","主题":"经济金融核心词","单词":"premium","音标":"/ˈpriːmiəm/","难度等级":"进阶","外刊语境短句":"Investors demand a higher premium for uncertainty.","中文释义":"溢价；额外回报；保险费。","参考翻译":"面对不确定性，投资者会索要更高的溢价。","核心搭配":"risk premium; valuation premium; insurance premium","搭配译法":"风险溢价；估值溢价；保险费","写作仿句":"Riskier borrowers are charged a higher premium, not out of prejudice but to cover expected losses.","仿句译文":"风险更高的借款人被收取更高的溢价，并非出于偏见，而是为了覆盖预期损失。","词性":"n."},{"编号":"045","主题":"经济金融核心词","单词":"volatility","音标":"/ˌvɒləˈtɪləti/","难度等级":"基础","外刊语境短句":"Currency volatility has become a headache for importers.","中文释义":"波动性；价格或汇率不稳定。","参考翻译":"汇率波动已经成了进口商的一大麻烦。","核心搭配":"market volatility; currency volatility; volatility index","搭配译法":"市场波动；汇率波动；波动率指数","写作仿句":"A single rumour can send volatility surging through markets that looked calm only hours before.","仿句译文":"一则谣言，就能让几小时前还显平静的市场陷入剧烈波动。","词性":"n."},{"编号":"046","主题":"经济金融核心词","单词":"benchmark","音标":"/ˈbentʃmɑːrk/","难度等级":"进阶","外刊语境短句":"Treasury yields serve as a benchmark for global borrowing costs.","中文释义":"基准；衡量标准；标杆。","参考翻译":"美国国债收益率，是全球借贷成本的重要基准。","核心搭配":"benchmark rate; benchmark index; set a benchmark","搭配译法":"基准利率；基准指数；设立标杆","写作仿句":"Compared with the benchmark, the fund's returns look considerably less impressive.","仿句译文":"与基准相比，这只基金的回报显得逊色不少。","词性":"n."},{"编号":"047","主题":"经济金融核心词","单词":"portfolio","音标":"/pɔːrtˈfəʊliəʊ/","难度等级":"进阶","外刊语境短句":"Investors are rebalancing portfolios after years of easy money.","中文释义":"投资组合；资产配置组合。","参考翻译":"经历多年宽松资金之后，投资者正在重新调整投资组合。","核心搭配":"investment portfolio; portfolio flows; rebalance a portfolio","搭配译法":"投资组合；组合资金流动；再平衡投资组合","写作仿句":"A well-diversified portfolio is designed to survive precisely the shocks that undiversified ones cannot.","仿句译文":"一个真正多元化的投资组合，正是为了挺过那些单一组合扛不住的冲击而设计的。","词性":"n."},{"编号":"048","主题":"经济金融核心词","单词":"collateral","音标":"/kəˈlætərəl/","难度等级":"进阶","外刊语境短句":"Falling house prices erode the value of collateral.","中文释义":"抵押品；担保物；也可指附带的。","参考翻译":"房价下跌，会削弱抵押品的价值。","核心搭配":"collateral value; pledge collateral; collateral damage","搭配译法":"抵押品价值；质押抵押品；附带损害","写作仿句":"Banks will lend against a property, but only up to the value of the collateral itself.","仿句译文":"银行愿意以房产作抵押放贷，但金额上限取决于抵押品本身的价值。","词性":"n."},{"编号":"049","主题":"经济金融核心词","单词":"leverage","音标":"/ˈlevərɪdʒ/","难度等级":"进阶","外刊语境短句":"High leverage makes firms vulnerable to rising rates.","中文释义":"杠杆；借债经营程度；也可作“利用”。","参考翻译":"杠杆越高，企业在利率上升时越脆弱。","核心搭配":"financial leverage; highly leveraged; leverage assets","搭配译法":"金融杠杆；高杠杆的；利用资产","写作仿句":"High leverage magnifies returns when markets rise and magnifies losses when they fall.","仿句译文":"高杠杆会在市场上涨时放大收益，也会在市场下跌时放大亏损。","词性":"n./v."},{"编号":"050","主题":"经济金融核心词","单词":"deleveraging","音标":"/ˌdiːˈlevərɪdʒɪŋ/","难度等级":"进阶","外刊语境短句":"Deleveraging is painful when asset prices are falling.","中文释义":"去杠杆；减少债务依赖。","参考翻译":"资产价格下跌时，去杠杆格外痛苦。","核心搭配":"deleveraging cycle; corporate deleveraging; debt reduction","搭配译法":"去杠杆周期；企业去杠杆；债务削减","写作仿句":"Deleveraging can strengthen a balance sheet even as it weakens near-term growth.","仿句译文":"去杠杆能够强化资产负债表，即便这会削弱近期的增长。","词性":"n."},{"编号":"051","主题":"经济金融核心词","单词":"risk appetite","音标":"/ˈrɪsk ˌæpɪtaɪt/","难度等级":"进阶","外刊语境短句":"Risk appetite has faded as rates have risen.","中文释义":"风险偏好；投资者承担风险的意愿。","参考翻译":"随着利率上升，风险偏好已经降温。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"As money grows cheaper, investors' risk appetite tends to recover almost immediately.","仿句译文":"随着资金成本下降，投资者的风险偏好往往会几乎立刻回升。","词性":""},{"编号":"052","主题":"经济金融核心词","单词":"sell-off","音标":"/ˈsel ɒf/","难度等级":"进阶","外刊语境短句":"The sell-off spread from technology shares to banks.","中文释义":"抛售；市场快速下跌。","参考翻译":"抛售先从科技股蔓延到银行股。","核心搭配":"market sell-off; bond sell-off; sharp sell-off","搭配译法":"市场抛售；债券抛售；急剧抛售","写作仿句":"The sell-off began among technology shares before spreading to banks.","仿句译文":"这轮抛售最先发生在科技股，随后蔓延到银行股。","词性":""},{"编号":"053","主题":"经济金融核心词","单词":"safe haven","音标":"/ˈseɪf ˌheɪvən/","难度等级":"进阶","外刊语境短句":"In a crisis, the dollar often acts as a safe haven.","中文释义":"避险资产；危机中资金涌入的安全去处。","参考翻译":"危机中，美元常常充当避险资产。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"Whenever geopolitical tension rises, capital tends to flow toward a handful of recognised safe havens.","仿句译文":"每当地缘政治紧张加剧，资金往往会流向少数几个公认的避险资产。","词性":""},{"编号":"054","主题":"经济金融核心词","单词":"capital flight","音标":"/ˈkæpɪtəl flaɪt/","难度等级":"进阶","外刊语境短句":"Capital flight can drain a country of investment and confidence.","中文释义":"资本外逃。","参考翻译":"资本外逃会抽走一个国家的投资和信心。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"Within weeks, sustained capital flight had drained the central bank's foreign reserves.","仿句译文":"短短几周内，持续的资本外逃就耗尽了央行的外汇储备。","词性":""},{"编号":"055","主题":"经济金融核心词","单词":"contagion","音标":"/kənˈteɪdʒən/","难度等级":"进阶","外刊语境短句":"Regulators moved quickly to prevent financial contagion.","中文释义":"传染；风险蔓延。","参考翻译":"监管者迅速出手，是为了防止金融风险继续扩散。","核心搭配":"financial contagion; contagion risk; prevent contagion","搭配译法":"金融传染；传染风险；防止风险扩散","写作仿句":"One bank's failure can trigger contagion before regulators have time to intervene.","仿句译文":"一家银行的倒闭，可能在监管者来得及干预之前就已引发风险传染。","词性":"n."},{"编号":"056","主题":"经济金融核心词","单词":"productivity","音标":"/ˌprɒdʌkˈtɪvəti/","难度等级":"进阶","外刊语境短句":"Weak productivity growth limits wage gains.","中文释义":"生产率；单位投入产出效率。","参考翻译":"生产率增长乏力会限制工资上涨。","核心搭配":"productivity growth; labour productivity; productivity gains","搭配译法":"生产率增长；劳动生产率；生产率提升","写作仿句":"Productivity, not headcount, ultimately determines how fast living standards can rise.","仿句译文":"决定生活水平能涨多快的，最终是生产率，而非员工数量。","词性":"n."},{"编号":"057","主题":"经济金融核心词","单词":"margin","音标":"/ˈmɑːrdʒɪn/","难度等级":"进阶","外刊语境短句":"Rising input costs are squeezing margins.","中文释义":"利润率；差额；余地。","参考翻译":"投入成本上升，正在挤压企业利润率。","核心搭配":"profit margins; thin margins; margin pressure","搭配译法":"利润率；微薄利润率；利润率压力","写作仿句":"Even a modest narrowing of the margin can turn a profitable quarter into a loss.","仿句译文":"哪怕利润率小幅收窄，也足以让一个盈利的季度变成亏损。","词性":"n."},{"编号":"058","主题":"经济金融核心词","单词":"profitability","音标":"/ˌprɒfɪtəˈbɪləti/","难度等级":"进阶","外刊语境短句":"Profitability has improved, but cash flow remains weak.","中文释义":"盈利能力。","参考翻译":"利润表好看了一些，但现金流仍显虚弱。","核心搭配":"profitability; improve profitability; profitability pressure","搭配译法":"盈利能力；提升盈利能力；盈利压力","写作仿句":"Rising sales do not guarantee profitability if costs are rising even faster.","仿句译文":"如果成本涨得比销售额还快，销售增长并不能保证盈利能力。","词性":"n."},{"编号":"059","主题":"经济金融核心词","单词":"revenue","音标":"/ˈrevənjuː/","难度等级":"进阶","外刊语境短句":"Revenue growth has slowed as consumers cut back.","中文释义":"营收；收入。","参考翻译":"消费者减少支出后，营收增长也随之放缓。","核心搭配":"revenue growth; recurring revenue; revenue stream","搭配译法":"营收增长；经常性收入；收入来源","写作仿句":"Revenue climbed steadily, even as the company's underlying profits quietly shrank.","仿句译文":"营收稳步增长，可这家公司的实际利润却在悄悄萎缩。","词性":"n."},{"编号":"060","主题":"经济金融核心词","单词":"cost pressure","音标":"/ˈkɒst ˌpreʃər/","难度等级":"进阶","外刊语境短句":"Cost pressure is forcing firms to raise prices.","中文释义":"成本压力。","参考翻译":"成本压力正迫使企业提价。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"Cost pressure tends to pass from supplier to manufacturer to consumer in roughly that order.","仿句译文":"成本压力大体上会按供应商、制造商、消费者的顺序依次传导。","词性":""},{"编号":"061","主题":"经济金融核心词","单词":"consolidation","音标":"/kənˌsɒlɪˈdeɪʃən/","难度等级":"进阶","外刊语境短句":"The industry is ripe for consolidation.","中文释义":"整合；合并；巩固。","参考翻译":"这个行业已经到了该整合的时候。","核心搭配":"industry consolidation; market consolidation; fiscal consolidation","搭配译法":"行业整合；市场整合；财政整顿","写作仿句":"Critics argue that this consolidation will raise prices for travellers with fewer carriers to choose from.","仿句译文":"批评者认为，这场行业整合会让可选航空公司变少，从而推高票价。","词性":"n."},{"编号":"062","主题":"经济金融核心词","单词":"competition","音标":"/ˌkɒmpəˈtɪʃən/","难度等级":"进阶","外刊语境短句":"Competition keeps prices honest and firms alert.","中文释义":"竞争；市场竞争格局。","参考翻译":"竞争既能压住价格，也能让企业保持清醒。","核心搭配":"fierce competition; market competition; competition policy","搭配译法":"激烈竞争；市场竞争；竞争政策","写作仿句":"Where competition is weak, prices have a curious tendency to drift upward regardless of cost.","仿句译文":"在竞争薄弱的地方，价格往往会出于某种奇怪的惯性而上涨，与成本无关。","词性":"n."},{"编号":"063","主题":"经济金融核心词","单词":"monopoly","音标":"/məˈnɒpəli/","难度等级":"进阶","外刊语境短句":"Monopoly power allows firms to raise prices without losing customers.","中文释义":"垄断；垄断力量。","参考翻译":"垄断势力让企业即便涨价，也不容易失去客户。","核心搭配":"monopoly power; natural monopoly; break up monopolies","搭配译法":"垄断力量；自然垄断；拆分垄断企业","写作仿句":"A near-monopoly allows a single firm to set prices that rivals, in a freer market, could undercut.","仿句译文":"近乎垄断的地位，让一家企业能定出在更自由的市场里本会被对手压低的价格。","词性":"n."},{"编号":"064","主题":"经济金融核心词","单词":"market share","音标":"/ˈmɑːrkɪt ʃeər/","难度等级":"进阶","外刊语境短句":"Firms cut prices to defend market share.","中文释义":"市场份额。","参考翻译":"企业降价以守住市场份额。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"Gaining market share through discounts is not the same as building lasting profitability.","仿句译文":"靠打折抢来的市场份额，和建立持久盈利能力完全是两回事。","词性":""},{"编号":"065","主题":"经济金融核心词","单词":"pricing power","音标":"/ˈpraɪsɪŋ ˌpaʊər/","难度等级":"进阶","外刊语境短句":"Brands with pricing power cope better with inflation.","中文释义":"定价权；企业提价而不失去客户的能力。","参考翻译":"有定价权的品牌更能应对通胀。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"Brands with genuine pricing power can raise prices without losing many customers at all.","仿句译文":"真正拥有定价权的品牌，涨价时几乎不会流失多少顾客。","词性":""},{"编号":"066","主题":"经济金融核心词","单词":"economies of scale","音标":"/ɪˈkɒnəmiz əv ˈskeɪl/","难度等级":"进阶","外刊语境短句":"Economies of scale help large firms spread fixed costs.","中文释义":"规模经济；规模扩大带来的单位成本下降。","参考翻译":"规模经济能帮助大企业摊薄固定成本。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"Economies of scale allow larger firms to undercut smaller rivals on price alone.","仿句译文":"规模经济让大企业仅凭价格优势就能压制规模更小的对手。","词性":""},{"编号":"067","主题":"经济金融核心词","单词":"bottleneck","音标":"/ˈbɒtəlnek/","难度等级":"进阶","外刊语境短句":"Supply-chain bottlenecks pushed up prices across industries.","中文释义":"瓶颈；系统中的关键堵点。","参考翻译":"供应链瓶颈推高了多个行业的价格。","核心搭配":"supply-chain bottlenecks; production bottlenecks; remove bottlenecks","搭配译法":"供应链瓶颈；生产瓶颈；清除瓶颈","写作仿句":"A single bottleneck, however small, can stall production lines on three different continents.","仿句译文":"一个再小的瓶颈，也可能让三个不同大陆的生产线同时停摆。","词性":"n."},{"编号":"068","主题":"经济金融核心词","单词":"capacity","音标":"/kəˈpæsəti/","难度等级":"进阶","外刊语境短句":"Factories are running close to full capacity.","中文释义":"产能；能力；容量。","参考翻译":"工厂正接近满负荷运转。","核心搭配":"production capacity; spare capacity; capacity constraints","搭配译法":"产能；闲置产能；产能约束","写作仿句":"Running at full capacity for too long leaves little room to absorb sudden demand.","仿句译文":"长期满负荷运转，意味着几乎没有余力消化突然涌来的需求。","词性":"n."},{"编号":"069","主题":"经济金融核心词","单词":"overcapacity","音标":"/ˌəʊvərkəˈpæsəti/","难度等级":"基础","外刊语境短句":"Overcapacity has pushed prices down and trade tensions up.","中文释义":"产能过剩。","参考翻译":"产能过剩压低了价格，也加剧了贸易摩擦。","核心搭配":"industrial overcapacity; excess capacity; overcapacity problem","搭配译法":"产业产能过剩；过剩产能；产能过剩问题","写作仿句":"Persistent overcapacity in one country's steel industry can depress prices for producers everywhere else.","仿句译文":"某国钢铁业长期产能过剩，足以压低世界其他地方生产商的价格。","词性":"n."},{"编号":"070","主题":"经济金融核心词","单词":"capital expenditure","音标":"/ˈkæpɪtəl ɪkˈspendɪtʃər/","难度等级":"进阶","外刊语境短句":"Capital expenditure is being delayed until demand becomes clearer.","中文释义":"资本开支；企业用于设备、厂房等长期资产的支出。","参考翻译":"在需求更明朗之前，企业正在推迟资本开支。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"Firms rarely announce new capital expenditure in the same year they announce layoffs.","仿句译文":"企业很少会在宣布裁员的同一年宣布新的资本开支。","词性":""},{"编号":"071","主题":"经济金融核心词","单词":"tariff","音标":"/ˈtærɪf/","难度等级":"基础","外刊语境短句":"Tariffs raise costs long before they bring factories back home.","中文释义":"关税。","参考翻译":"关税造成的成本上升立竿见影，而工厂回流遥遥无期。","核心搭配":"tariff barriers; retaliatory tariffs; impose tariffs","搭配译法":"关税壁垒；报复性关税；征收关税","写作仿句":"A twenty-five percent tariff on imported steel inevitably raises costs somewhere along the supply chain.","仿句译文":"对进口钢材征收 25% 的关税，必然会在供应链某个环节推高成本。","词性":"n."},{"编号":"072","主题":"经济金融核心词","单词":"protectionism","音标":"/prəˈtekʃənɪzəm/","难度等级":"高阶","外刊语境短句":"Protectionism often arrives dressed as national security.","中文释义":"保护主义。","参考翻译":"保护主义常披着国家安全的外衣登场。","核心搭配":"trade protectionism; creeping protectionism; protectionist measures","搭配译法":"贸易保护主义；渐进式保护主义；保护主义措施","写作仿句":"Protectionism dressed up as national security still carries the same economic cost.","仿句译文":"即便披上国家安全的外衣，保护主义仍然要付出同样沉重的经济代价。","词性":"n."},{"编号":"073","主题":"经济金融核心词","单词":"free trade","音标":"/ˌfriː ˈtreɪd/","难度等级":"基础","外刊语境短句":"Free trade is easier to defend when its gains are widely shared.","中文释义":"自由贸易。","参考翻译":"自由贸易的收益分配得越广，它就越容易得到支持。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"Free trade delivered cheaper goods, but the factory jobs it displaced never fully returned.","仿句译文":"自由贸易带来了更便宜的商品，但它取代的工厂岗位却从未真正回流。","词性":""},{"编号":"074","主题":"经济金融核心词","单词":"trade deficit","音标":"/ˈtreɪd ˌdefɪsɪt/","难度等级":"基础","外刊语境短句":"A trade deficit is not always evidence of economic weakness.","中文释义":"贸易逆差；进口大于出口。","参考翻译":"贸易逆差并不总是经济疲弱的证据。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"A persistent trade deficit need not signal weakness if domestic demand remains robust.","仿句译文":"如果内需依然强劲，持续的贸易逆差未必意味着经济疲弱。","词性":""},{"编号":"075","主题":"经济金融核心词","单词":"trade surplus","音标":"/ˈtreɪd ˌsɜːrpləs/","难度等级":"基础","外刊语境短句":"A trade surplus can fuel accusations of unfair competition.","中文释义":"贸易顺差；出口大于进口。","参考翻译":"贸易顺差可能引发不公平竞争的指责。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"Decades of trade surplus have made this economy unusually dependent on demand from abroad.","仿句译文":"数十年的贸易顺差，让这个经济体异常依赖海外需求。","词性":""},{"编号":"076","主题":"经济金融核心词","单词":"supply chain","音标":"/səˈplaɪ tʃeɪn/","难度等级":"基础","外刊语境短句":"Supply chains are being redesigned for resilience, not just efficiency.","中文释义":"供应链。","参考翻译":"供应链正在被重塑，目标不只是效率，还有韧性。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"A single blocked canal can disrupt a supply chain that spans three continents.","仿句译文":"一条运河受阻，就能扰乱一条横跨三大洲的供应链。","词性":""},{"编号":"077","主题":"经济金融核心词","单词":"reshoring","音标":"/ˌriːˈʃɔːrɪŋ/","难度等级":"高阶","外刊语境短句":"Reshoring is costly, but politicians like the sound of it.","中文释义":"制造业回流；把海外生产迁回本土。","参考翻译":"制造业回流代价不菲，却很容易打动政客。","核心搭配":"reshoring; bring production home; domestic manufacturing","搭配译法":"制造业回流；把生产迁回本土；本土制造","写作仿句":"Reshoring production raises costs, but it also shortens the distance between a problem and its fix.","仿句译文":"制造业回流会推高成本，却也缩短了问题与解决方案之间的距离。","词性":"n."},{"编号":"078","主题":"经济金融核心词","单词":"offshoring","音标":"/ˌɒfˈʃɔːrɪŋ/","难度等级":"高阶","外刊语境短句":"Offshoring lowered costs but lengthened supply chains.","中文释义":"离岸外包；把生产或服务转移到海外。","参考翻译":"离岸外包压低了成本，也把供应链越拉越长。","核心搭配":"offshoring; offshore production; offshore jobs","搭配译法":"离岸外包；海外生产；外迁岗位","写作仿句":"Offshoring cut this firm's costs by half and its customer satisfaction by nearly as much.","仿句译文":"离岸外包让这家公司的成本砍掉一半，客户满意度也几乎随之腰斩。","词性":"n."},{"编号":"079","主题":"经济金融核心词","单词":"decoupling","音标":"/ˌdiːˈkʌplɪŋ/","难度等级":"高阶","外刊语境短句":"Full decoupling would be costlier than politicians admit.","中文释义":"脱钩；经济、技术或供应链分离。","参考翻译":"全面脱钩的代价，远比政客愿意承认的沉重。","核心搭配":"economic decoupling; technological decoupling; supply-chain decoupling","搭配译法":"经济脱钩；技术脱钩；供应链脱钩","写作仿句":"Two economies bound together by decades of supply-chain decoupling rarely separate cleanly or cheaply.","仿句译文":"两个被几十年供应链捆在一起的经济体，很难干净利落、低成本地分开。","词性":"n."},{"编号":"080","主题":"经济金融核心词","单词":"derisking","音标":"/ˌdiːˈrɪskɪŋ/","难度等级":"高阶","外刊语境短句":"Derisking has become the polite word for reducing dependence.","中文释义":"去风险；降低依赖而非全面切断。","参考翻译":"“去风险”已经成了降低依赖的一种体面说法。","核心搭配":"derisking strategy; derisk supply chains; reduce dependence","搭配译法":"去风险策略；降低供应链风险；降低依赖","写作仿句":"Few officials are willing to say decoupling aloud, so derisking has become its more palatable substitute.","仿句译文":"很少有官员愿意把脱钩说出口，于是去风险就成了它更体面的替代说法。","词性":"n."},{"编号":"081","主题":"经济金融核心词","单词":"labour market","音标":"/ˈleɪbər ˌmɑːrkɪt/","难度等级":"基础","外刊语境短句":"The labour market remains tight despite slower growth.","中文释义":"劳动力市场。","参考翻译":"尽管增长放缓，劳动力市场仍然偏紧。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"A tight labour market gives workers leverage they rarely enjoy during a downturn.","仿句译文":"紧俏的劳动力市场给了劳动者在下行期罕有的议价权。","词性":""},{"编号":"082","主题":"经济金融核心词","单词":"wage growth","音标":"/ˈweɪdʒ ɡrəʊθ/","难度等级":"基础","外刊语境短句":"Wage growth is strong enough to worry central bankers.","中文释义":"工资增长。","参考翻译":"工资增长强劲到足以让央行担心。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"Wage growth finally outpaced inflation this spring, for the first time in two years.","仿句译文":"今年春天，工资增长终于跑赢了通胀，这是两年来第一次。","词性":""},{"编号":"083","主题":"经济金融核心词","单词":"real income","音标":"/ˌrɪəl ˈɪnkʌm/","难度等级":"基础","外刊语境短句":"Real incomes have fallen even as nominal wages have risen.","中文释义":"实际收入；扣除通胀后的收入。","参考翻译":"即便名义工资上涨，实际收入仍然下降。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"Nominal pay rose, yet real income, adjusted for inflation, actually fell.","仿句译文":"名义工资涨了，可剔除通胀后的实际收入却实实在在地下降了。","词性":""},{"编号":"084","主题":"经济金融核心词","单词":"cost of living","音标":"/ˌkɒst əv ˈlɪvɪŋ/","难度等级":"基础","外刊语境短句":"The cost-of-living squeeze has changed the politics of inflation.","中文释义":"生活成本。","参考翻译":"生活成本挤压，改变了围绕通胀的政治格局。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"The rising cost of living has eaten into savings that households once considered untouchable.","仿句译文":"不断上涨的生活成本，正在蚕食那些家庭曾经认为不能动用的储蓄。","词性":""},{"编号":"085","主题":"经济金融核心词","单词":"household spending","音标":"/ˈhaʊshəʊld ˌspendɪŋ/","难度等级":"进阶","外刊语境短句":"Household spending has held up better than expected.","中文释义":"家庭支出；居民消费。","参考翻译":"家庭支出表现得比预期更坚挺。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"Household spending held up remarkably well until the credit-card bills finally caught up.","仿句译文":"家庭支出一直保持得相当坚挺，直到信用卡还款压力最终显现。","词性":""},{"编号":"086","主题":"经济金融核心词","单词":"consumer confidence","音标":"/kənˈsuːmər ˈkɒnfɪdəns/","难度等级":"基础","外刊语境短句":"Consumer confidence fell as mortgage payments rose.","中文释义":"消费者信心。","参考翻译":"随着房贷支出上升，消费者信心下滑。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"Consumer confidence often shifts weeks before official statistics confirm the trend.","仿句译文":"消费者信心的转变，往往比官方统计数据确认趋势要早上好几周。","词性":""},{"编号":"087","主题":"经济金融核心词","单词":"purchasing power","音标":"/ˈpɜːrtʃəsɪŋ ˌpaʊər/","难度等级":"进阶","外刊语境短句":"Inflation has eroded purchasing power.","中文释义":"购买力。","参考翻译":"通胀侵蚀了购买力。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"A dollar today buys noticeably less than it did three years ago, a sign of eroding purchasing power.","仿句译文":"今天的一块钱明显比三年前能买到的更少，这正是购买力被侵蚀的体现。","词性":""},{"编号":"088","主题":"经济金融核心词","单词":"income squeeze","音标":"/ˈɪnkʌm skwiːz/","难度等级":"进阶","外刊语境短句":"The income squeeze has forced households to trade down.","中文释义":"收入挤压；收入被物价或债务压力压缩。","参考翻译":"收入被挤压，迫使家庭转向更便宜的选择。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"Rent rose, groceries rose, and the income squeeze that followed left little room for anything else.","仿句译文":"房租涨了，菜价也涨了，随之而来的收入挤压让人再没有多余的空间。","词性":""},{"编号":"089","主题":"经济金融核心词","单词":"savings glut","音标":"/ˈseɪvɪŋz ɡlʌt/","难度等级":"进阶","外刊语境短句":"A global savings glut helped keep interest rates low.","中文释义":"储蓄过剩；储蓄大于投资需求。","参考翻译":"全球储蓄过剩曾帮助压低利率。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"A global savings glut once helped keep interest rates remarkably low for over a decade.","仿句译文":"曾经的全球储蓄过剩，让利率在长达十年的时间里维持在异常低的水平。","词性":""},{"编号":"090","主题":"经济金融核心词","单词":"precautionary saving","音标":"/prɪˈkɔːʃənəri ˈseɪvɪŋ/","难度等级":"进阶","外刊语境短句":"Uncertainty has encouraged precautionary saving.","中文释义":"预防性储蓄；因担忧未来而增加储蓄。","参考翻译":"不确定性促使人们增加预防性储蓄。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"Rising uncertainty has pushed households toward more precautionary saving than at any point in years.","仿句译文":"不断上升的不确定性，让家庭比这些年中任何时候都更倾向于预防性储蓄。","词性":""},{"编号":"091","主题":"经济金融核心词","单词":"headwind","音标":"/ˈhedwɪnd/","难度等级":"基础","外刊语境短句":"Higher rates are a headwind for investment.","中文释义":"逆风；阻碍增长、投资或信心的外部压力。","参考翻译":"利率上升，正在给投资带来逆风。","核心搭配":"economic headwinds; regulatory headwinds; face headwinds","搭配译法":"经济逆风；监管阻力；面临阻力","写作仿句":"Higher borrowing costs are proving a persistent headwind for firms planning to expand.","仿句译文":"更高的借贷成本，正在持续拖累那些计划扩张的企业。","词性":"n."},{"编号":"092","主题":"经济金融核心词","单词":"tailwind","音标":"/ˈteɪlwɪnd/","难度等级":"基础","外刊语境短句":"Cheap energy gave manufacturers an unexpected tailwind.","中文释义":"助力；推动增长、盈利或市场改善的有利因素。","参考翻译":"廉价能源给制造商带来了意外助力。","核心搭配":"policy tailwinds; cyclical tailwinds; benefit from tailwinds","搭配译法":"政策助力；周期性利好；受益于顺风因素","写作仿句":"Cheap energy and a weak currency together gave exporters an unexpected tailwind.","仿句译文":"廉价能源叠加疲软货币，给出口商送来一股意外助力。","词性":"n."},{"编号":"093","主题":"经济金融核心词","单词":"cushion","音标":"/ˈkʊʃən/","难度等级":"基础","外刊语境短句":"Savings helped cushion households from higher prices.","中文释义":"缓冲；减轻冲击。","参考翻译":"储蓄帮家庭挡下了一部分物价上涨的冲击。","核心搭配":"cushion the blow; fiscal cushion; cash cushion","搭配译法":"缓冲冲击；财政缓冲；现金垫","写作仿句":"Three months of savings offered this family just enough cushion to survive the layoff.","仿句译文":"三个月的存款，刚好让这个家庭撑过了裁员后的艰难时期。","词性":"n./v."},{"编号":"094","主题":"经济金融核心词","单词":"weigh on","音标":"/ˈweɪ ɒn/","难度等级":"基础","外刊语境短句":"Weak exports are weighing on growth.","中文释义":"拖累；压制。","参考翻译":"出口疲弱正在拖累增长。","核心搭配":"暂无","搭配译法":"暂无","写作仿句":"A cooling housing market continues to weigh on consumer spending more broadly.","仿句译文":"持续降温的楼市，仍在更大范围内拖累消费支出。","词性":""},{"编号":"095","主题":"经济金融核心词","单词":"fuel","音标":"/ˈfjuːəl/","难度等级":"基础","外刊语境短句":"Cheap credit fuelled the property boom.","中文释义":"助推；加剧；给……火上浇油。","参考翻译":"廉价信贷助推了房地产繁荣。","核心搭配":"fuel inflation; fuel growth; fuel speculation","搭配译法":"推高通胀；助推增长；刺激投机","写作仿句":"Cheap credit can fuel a housing boom long before regulators notice the risk.","仿句译文":"廉价信贷能在监管者察觉风险之前，就助推起一场楼市繁荣。","词性":"v."},{"编号":"096","主题":"经济金融核心词","单词":"blunt","音标":"/blʌnt/","难度等级":"进阶","外刊语境短句":"Price controls can blunt inflation but distort incentives.","中文释义":"削弱；钝化；使效果变弱。","参考翻译":"价格管制能压一压通胀，却也会扭曲激励。","核心搭配":"blunt the impact; blunt incentives; blunt a tool","搭配译法":"削弱冲击；削弱激励；降低工具效果","写作仿句":"Price caps blunt the worst of the pain, but they also blunt the market's ability to signal scarcity.","仿句译文":"价格上限能缓解最剧烈的痛感，却也会削弱市场发出稀缺信号的能力。","词性":"v."},{"编号":"097","主题":"经济金融核心词","单词":"weather","音标":"/ˈweðər/","难度等级":"基础","外刊语境短句":"Strong balance sheets helped banks weather the shock.","中文释义":"经受住；挺过。","参考翻译":"强健的资产负债表，帮助银行挺过了这轮冲击。","核心搭配":"weather a storm; weather a crisis; weather shocks","搭配译法":"扛过风暴；挺过危机；经受冲击","写作仿句":"Firms with strong balance sheets are better placed to weather a sudden downturn.","仿句译文":"资产负债表稳健的企业，更有能力挺过突如其来的下行。","词性":"v."},{"编号":"098","主题":"经济金融核心词","单词":"loom","音标":"/luːm/","难度等级":"基础","外刊语境短句":"A debt crisis looms if growth fails to recover.","中文释义":"逼近；隐现；令人担忧地迫近。","参考翻译":"如果增长无法恢复，债务危机就会一步步逼近。","核心搭配":"risks loom; crisis looms; looming recession","搭配译法":"风险逼近；危机迫近；衰退阴影逼近","写作仿句":"A debt crisis can loom for years before it finally becomes impossible to ignore.","仿句译文":"一场债务危机可能悬在头顶多年，直到最后再也无法忽视。","词性":"v."},{"编号":"099","主题":"经济金融核心词","单词":"bite","音标":"/baɪt/","难度等级":"基础","外刊语境短句":"Higher mortgage rates are starting to bite.","中文释义":"开始产生痛感；开始显出影响。","参考翻译":"更高的房贷利率，已经开始让人感到切肤之痛。","核心搭配":"start to bite; bite into incomes; policy bites","搭配译法":"开始显现影响；侵蚀收入；政策开始见效","写作仿句":"Higher rates bite hardest in households already carrying the most debt.","仿句译文":"利率上升对那些已经背负最多债务的家庭打击最重。","词性":"v."},{"编号":"100","主题":"经济金融核心词","单词":"falter","音标":"/ˈfɔːltər/","难度等级":"基础","外刊语境短句":"Growth faltered as exports weakened.","中文释义":"动摇；减弱；增长乏力。","参考翻译":"出口走弱后，增长也开始乏力。","核心搭配":"growth falters; confidence falters; recovery falters","搭配译法":"增长乏力；信心动摇；复苏受挫","写作仿句":"Exports faltered first, and hiring soon followed in the same direction.","仿句译文":"出口先开始乏力，招聘很快也跟着走弱。","词性":"v."}];
+    let filtered = cards.slice();
+    let index = 0;
+    const progress = new Map();
+    const storageKey = "economistFlashcards:" + "Module01_经济金融核心词100个_闪卡";
+    const el = (id) => document.getElementById(id);
+
+    function saveState() {
+      try {
+        localStorage.setItem(storageKey, JSON.stringify({
+          index,
+          topic: "全部",
+          autoPlay: autoPlayEnabled,
+          progress: Array.from(progress.entries()),
+        }));
+      } catch (error) {
+        el("audioHint").textContent = "本地进度保存受限";
+      }
+    }
+
+    function loadState() {
+      try {
+        return JSON.parse(localStorage.getItem(storageKey) || "null");
+      } catch (error) {
+        return null;
+      }
+    }
+
+    function applySavedState(saved) {
+      if (!saved) return;
+      if (false && saved.topic && Array.from(el("topic").options).some((option) => option.value === saved.topic)) {
+        el("topic").value = saved.topic;
+        filtered = saved.topic === "全部" ? cards.slice() : cards.filter((card) => card["主题"] === saved.topic);
+      }
+      if (Array.isArray(saved.progress)) {
+        progress.clear();
+        saved.progress.forEach(([key, value]) => progress.set(key, value));
+      }
+      autoPlayEnabled = saved.autoPlay === true;
+      index = Math.min(Math.max(Number(saved.index) || 0, 0), Math.max(filtered.length - 1, 0));
+    }
+
+    function render() {
+      const card = filtered[index] || cards[0];
+      el("number").textContent = card["编号"];
+      el("cardTopic").textContent = card["主题"] === "科技AI" ? "科技 AI" : card["主题"];
+      el("difficulty").textContent = card["难度等级"] || "进阶";
+      el("word").textContent = card["单词"];
+      el("phonetic").textContent = card["音标"];
+      const pos = card["词性"] || "";
+      if (el("pos")) { el("pos").textContent = pos; el("pos").hidden = !pos; }
+      el("prompt").textContent = card["外刊语境短句"];
+      el("meaning").textContent = card["中文释义"];
+      el("translation").textContent = card["参考翻译"];
+      const collocations = card["核心搭配"] || "";
+      const collocationsRow = el("collocations").closest("p");
+      if (!collocations || collocations === "暂无") {
+        el("collocations").textContent = "";
+        collocationsRow.hidden = true;
+      } else {
+        el("collocations").textContent = collocations;
+        collocationsRow.hidden = false;
+      }
+      el("writing").textContent = card["写作仿句"];
+      el("answer").classList.remove("show");
+      el("show").textContent = "查看解析";
+      el("counter").textContent = filtered.length ? `${index + 1} / ${filtered.length}` : "0 / 0";
+      updateStats();
+      updateAudioAvailability(hasRenderedOnce);
+      hasRenderedOnce = true;
+    }
+
+    function updateStats() {
+      let known = 0;
+      let again = 0;
+      for (const value of progress.values()) {
+        if (value === "known") known += 1;
+        if (value === "again") again += 1;
+      }
+      el("known").textContent = known;
+      el("again").textContent = again;
+    }
+
+    function currentCard() {
+      return filtered[index] || cards[0];
+    }
+
+    const wordAudio = new Audio();
+    const audioBase = location.pathname.includes("/module") ? "../audio/words/" : "audio/words/";
+    let autoPlayEnabled = false;
+    let hasRenderedOnce = false;
+
+    function audioPath(card) {
+      return audioBase + encodeURIComponent(card["编号"]) + ".mp3";
+    }
+
+    async function updateAudioAvailability(allowAutoPlay = true) {
+      const bar = el("audioBar");
+      const card = currentCard();
+      const src = audioPath(card);
+      bar.hidden = true;
+      el("audioHint").textContent = "真人感音频";
+      try {
+        const response = await fetch(src, { method: "HEAD", cache: "no-store" });
+        bar.hidden = !response.ok;
+        if (response.ok && allowAutoPlay) maybeAutoPlay();
+      } catch (error) {
+        bar.hidden = true;
+      }
+    }
+
+    function playWordAudio() {
+      const card = currentCard();
+      wordAudio.pause();
+      wordAudio.currentTime = 0;
+      wordAudio.src = audioPath(card);
+      el("audioHint").textContent = "正在播放：" + card["单词"];
+      wordAudio.play().catch(() => {
+        el("audioHint").textContent = "音频暂未生成";
+      });
+    }
+
+    function setAutoPlay(enabled) {
+      autoPlayEnabled = enabled;
+      el("autoPlay").textContent = enabled ? "自动跟读：开" : "自动跟读：关";
+      el("autoPlay").setAttribute("aria-pressed", enabled ? "true" : "false");
+    }
+
+    function maybeAutoPlay() {
+      if (!autoPlayEnabled || el("audioBar").hidden) return;
+      playWordAudio();
+    }
+
+    function next() {
+      if (!filtered.length) return;
+      index = (index + 1) % filtered.length;
+      render();
+      saveState();
+    }
+
+    el("show").addEventListener("click", () => {
+      const answer = el("answer");
+      answer.classList.toggle("show");
+      el("show").textContent = answer.classList.contains("show") ? "收起解析" : "查看解析";
+    });
+    el("prev").addEventListener("click", () => {
+      if (!filtered.length) return;
+      index = (index - 1 + filtered.length) % filtered.length;
+      render();
+      saveState();
+    });
+    el("nextBtn").addEventListener("click", next);
+    el("knownBtn").addEventListener("click", () => {
+      progress.set(filtered[index]["编号"], "known");
+      next();
+    });
+    el("againBtn").addEventListener("click", () => {
+      progress.set(filtered[index]["编号"], "again");
+      next();
+    });
+    el("playWord").addEventListener("click", playWordAudio);
+    el("autoPlay").addEventListener("click", () => {
+      setAutoPlay(!autoPlayEnabled);
+      saveState();
+      if (autoPlayEnabled) playWordAudio();
+    });
+    wordAudio.addEventListener("ended", () => {
+      el("audioHint").textContent = "真人感音频";
+    });
+    wordAudio.addEventListener("error", () => {
+      el("audioHint").textContent = "音频暂未生成";
+    });
+    el("shuffle").addEventListener("click", () => {
+      filtered = filtered.map((value) => ({ value, sort: Math.random() })).sort((a, b) => a.sort - b.sort).map(({ value }) => value);
+      index = 0;
+      render();
+      saveState();
+    });
+    el("reset").addEventListener("click", () => {
+      progress.clear();
+      index = 0;
+      try {
+        localStorage.removeItem(storageKey);
+      } catch (error) {}
+      render();
+    });
+    
+    document.addEventListener("keydown", (event) => {
+      if (event.key === " ") {
+        event.preventDefault();
+        el("show").click();
+      }
+      if (event.key === "ArrowRight") next();
+      if (event.key === "ArrowLeft") el("prev").click();
+      if (event.key.toLowerCase() === "k") el("knownBtn").click();
+      if (event.key.toLowerCase() === "j") el("againBtn").click();
+    });
+    const savedState = loadState();
+    applySavedState(savedState);
+    setAutoPlay(autoPlayEnabled);
+    render();
+  </script>
+<p class="license-note">本资料仅供购买者本人学习使用，请勿转发、售卖或公开传播。</p><script>(function(){var ACCESS_KEY='daydayeco_access_v1';var ACCESS_PASSWORD='88888888';var lock=document.getElementById('accessLock');var input=document.getElementById('accessPassword');var submit=document.getElementById('accessSubmit');var error=document.getElementById('accessError');function unlock(){try{localStorage.setItem(ACCESS_KEY,'ok')}catch(e){} if(lock)lock.classList.remove('is-visible')}function showLock(){if(lock)lock.classList.add('is-visible');setTimeout(function(){if(input)input.focus()},50)}function checkPassword(){var value=input?input.value.trim():'';if(value===ACCESS_PASSWORD){unlock();return}if(error)error.textContent='口令不对，请检查后再试。';if(input)input.select()}var passed=false;try{passed=localStorage.getItem(ACCESS_KEY)==='ok'}catch(e){} if(passed)unlock();else showLock();if(submit)submit.addEventListener('click',checkPassword);if(input)input.addEventListener('keydown',function(event){if(event.key==='Enter')checkPassword()})})();</script>
+</body>
+</html>
