@@ -1,0 +1,352 @@
+[
+  {
+    "id": "001",
+    "sourceId": "013",
+    "word": "undermine",
+    "voice": "matilda_us_female_clear",
+    "file": "001_undermine.mp3"
+  },
+  {
+    "id": "002",
+    "sourceId": "015",
+    "word": "reckon",
+    "voice": "matilda_us_female_clear",
+    "file": "002_reckon.mp3"
+  },
+  {
+    "id": "003",
+    "sourceId": "016",
+    "word": "weigh",
+    "voice": "matilda_us_female_clear",
+    "file": "003_weigh.mp3"
+  },
+  {
+    "id": "004",
+    "sourceId": "017",
+    "word": "spur",
+    "voice": "matilda_us_female_clear",
+    "file": "004_spur.mp3"
+  },
+  {
+    "id": "005",
+    "sourceId": "018",
+    "word": "bolster",
+    "voice": "matilda_us_female_clear",
+    "file": "005_bolster.mp3"
+  },
+  {
+    "id": "006",
+    "sourceId": "019",
+    "word": "erode",
+    "voice": "matilda_us_female_clear",
+    "file": "006_erode.mp3"
+  },
+  {
+    "id": "007",
+    "sourceId": "020",
+    "word": "unleash",
+    "voice": "matilda_us_female_clear",
+    "file": "007_unleash.mp3"
+  },
+  {
+    "id": "008",
+    "sourceId": "021",
+    "word": "grapple",
+    "voice": "matilda_us_female_clear",
+    "file": "008_grapple.mp3"
+  },
+  {
+    "id": "009",
+    "sourceId": "022",
+    "word": "stoke",
+    "voice": "matilda_us_female_clear",
+    "file": "009_stoke.mp3"
+  },
+  {
+    "id": "010",
+    "sourceId": "023",
+    "word": "blunt",
+    "voice": "matilda_us_female_clear",
+    "file": "010_blunt.mp3"
+  },
+  {
+    "id": "011",
+    "sourceId": "024",
+    "word": "exacerbate",
+    "voice": "matilda_us_female_clear",
+    "file": "011_exacerbate.mp3"
+  },
+  {
+    "id": "012",
+    "sourceId": "025",
+    "word": "thwart",
+    "voice": "matilda_us_female_clear",
+    "file": "012_thwart.mp3"
+  },
+  {
+    "id": "013",
+    "sourceId": "026",
+    "word": "mitigate",
+    "voice": "matilda_us_female_clear",
+    "file": "013_mitigate.mp3"
+  },
+  {
+    "id": "014",
+    "sourceId": "027",
+    "word": "hamper",
+    "voice": "matilda_us_female_clear",
+    "file": "014_hamper.mp3"
+  },
+  {
+    "id": "015",
+    "sourceId": "028",
+    "word": "scrap",
+    "voice": "matilda_us_female_clear",
+    "file": "015_scrap.mp3"
+  },
+  {
+    "id": "016",
+    "sourceId": "029",
+    "word": "loom",
+    "voice": "matilda_us_female_clear",
+    "file": "016_loom.mp3"
+  },
+  {
+    "id": "017",
+    "sourceId": "031",
+    "word": "mull",
+    "voice": "matilda_us_female_clear",
+    "file": "017_mull.mp3"
+  },
+  {
+    "id": "018",
+    "sourceId": "032",
+    "word": "upend",
+    "voice": "matilda_us_female_clear",
+    "file": "018_upend.mp3"
+  },
+  {
+    "id": "019",
+    "sourceId": "033",
+    "word": "decry",
+    "voice": "matilda_us_female_clear",
+    "file": "019_decry.mp3"
+  },
+  {
+    "id": "020",
+    "sourceId": "034",
+    "word": "deter",
+    "voice": "matilda_us_female_clear",
+    "file": "020_deter.mp3"
+  },
+  {
+    "id": "021",
+    "sourceId": "035",
+    "word": "stifle",
+    "voice": "matilda_us_female_clear",
+    "file": "021_stifle.mp3"
+  },
+  {
+    "id": "022",
+    "sourceId": "036",
+    "word": "entrench",
+    "voice": "matilda_us_female_clear",
+    "file": "022_entrench.mp3"
+  },
+  {
+    "id": "023",
+    "sourceId": "037",
+    "word": "dampen",
+    "voice": "matilda_us_female_clear",
+    "file": "023_dampen.mp3"
+  },
+  {
+    "id": "024",
+    "sourceId": "038",
+    "word": "hail",
+    "voice": "matilda_us_female_clear",
+    "file": "024_hail.mp3"
+  },
+  {
+    "id": "025",
+    "sourceId": "041",
+    "word": "plague",
+    "voice": "matilda_us_female_clear",
+    "file": "025_plague.mp3"
+  },
+  {
+    "id": "026",
+    "sourceId": "042",
+    "word": "dismantle",
+    "voice": "matilda_us_female_clear",
+    "file": "026_dismantle.mp3"
+  },
+  {
+    "id": "027",
+    "sourceId": "043",
+    "word": "avert",
+    "voice": "matilda_us_female_clear",
+    "file": "027_avert.mp3"
+  },
+  {
+    "id": "028",
+    "sourceId": "044",
+    "word": "sour",
+    "voice": "matilda_us_female_clear",
+    "file": "028_sour.mp3"
+  },
+  {
+    "id": "029",
+    "sourceId": "047",
+    "word": "tout",
+    "voice": "matilda_us_female_clear",
+    "file": "029_tout.mp3"
+  },
+  {
+    "id": "030",
+    "sourceId": "052",
+    "word": "curtail",
+    "voice": "matilda_us_female_clear",
+    "file": "030_curtail.mp3"
+  },
+  {
+    "id": "031",
+    "sourceId": "053",
+    "word": "usher",
+    "voice": "matilda_us_female_clear",
+    "file": "031_usher.mp3"
+  },
+  {
+    "id": "032",
+    "sourceId": "055",
+    "word": "hobble",
+    "voice": "matilda_us_female_clear",
+    "file": "032_hobble.mp3"
+  },
+  {
+    "id": "033",
+    "sourceId": "057",
+    "word": "falter",
+    "voice": "matilda_us_female_clear",
+    "file": "033_falter.mp3"
+  },
+  {
+    "id": "034",
+    "sourceId": "058",
+    "word": "wrestle",
+    "voice": "matilda_us_female_clear",
+    "file": "034_wrestle.mp3"
+  },
+  {
+    "id": "035",
+    "sourceId": "059",
+    "word": "embolden",
+    "voice": "matilda_us_female_clear",
+    "file": "035_embolden.mp3"
+  },
+  {
+    "id": "036",
+    "sourceId": "060",
+    "word": "ratchet",
+    "voice": "matilda_us_female_clear",
+    "file": "036_ratchet.mp3"
+  },
+  {
+    "id": "037",
+    "sourceId": "062",
+    "word": "placate",
+    "voice": "matilda_us_female_clear",
+    "file": "037_placate.mp3"
+  },
+  {
+    "id": "038",
+    "sourceId": "064",
+    "word": "deride",
+    "voice": "matilda_us_female_clear",
+    "file": "038_deride.mp3"
+  },
+  {
+    "id": "039",
+    "sourceId": "072",
+    "word": "lambast",
+    "voice": "matilda_us_female_clear",
+    "file": "039_lambast.mp3"
+  },
+  {
+    "id": "040",
+    "sourceId": "073",
+    "word": "galvanise",
+    "voice": "matilda_us_female_clear",
+    "file": "040_galvanise.mp3"
+  },
+  {
+    "id": "041",
+    "sourceId": "074",
+    "word": "roil",
+    "voice": "matilda_us_female_clear",
+    "file": "041_roil.mp3"
+  },
+  {
+    "id": "042",
+    "sourceId": "075",
+    "word": "bemoan",
+    "voice": "matilda_us_female_clear",
+    "file": "042_bemoan.mp3"
+  },
+  {
+    "id": "043",
+    "sourceId": "078",
+    "word": "rescind",
+    "voice": "matilda_us_female_clear",
+    "file": "043_rescind.mp3"
+  },
+  {
+    "id": "044",
+    "sourceId": "079",
+    "word": "defuse",
+    "voice": "matilda_us_female_clear",
+    "file": "044_defuse.mp3"
+  },
+  {
+    "id": "045",
+    "sourceId": "080",
+    "word": "deplore",
+    "voice": "matilda_us_female_clear",
+    "file": "045_deplore.mp3"
+  },
+  {
+    "id": "046",
+    "sourceId": "081",
+    "word": "fester",
+    "voice": "matilda_us_female_clear",
+    "file": "046_fester.mp3"
+  },
+  {
+    "id": "047",
+    "sourceId": "082",
+    "word": "flout",
+    "voice": "matilda_us_female_clear",
+    "file": "047_flout.mp3"
+  },
+  {
+    "id": "048",
+    "sourceId": "087",
+    "word": "mollify",
+    "voice": "matilda_us_female_clear",
+    "file": "048_mollify.mp3"
+  },
+  {
+    "id": "049",
+    "sourceId": "089",
+    "word": "skewer",
+    "voice": "matilda_us_female_clear",
+    "file": "049_skewer.mp3"
+  },
+  {
+    "id": "050",
+    "sourceId": "092",
+    "word": "rankle",
+    "voice": "matilda_us_female_clear",
+    "file": "050_rankle.mp3"
+  }
+]
