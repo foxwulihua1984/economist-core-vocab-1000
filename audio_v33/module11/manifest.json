@@ -1,0 +1,779 @@
+[
+  {
+    "id": "001",
+    "sourceId": "002",
+    "word": "impunity",
+    "voice": "matilda_us_female_clear",
+    "file": "001_impunity.mp3"
+  },
+  {
+    "id": "002",
+    "sourceId": "004",
+    "word": "backlash",
+    "voice": "matilda_us_female_clear",
+    "file": "002_backlash.mp3"
+  },
+  {
+    "id": "003",
+    "sourceId": "007",
+    "word": "complacency",
+    "voice": "matilda_us_female_clear",
+    "file": "003_complacency.mp3"
+  },
+  {
+    "id": "004",
+    "sourceId": "011",
+    "word": "hubris",
+    "voice": "matilda_us_female_clear",
+    "file": "004_hubris.mp3"
+  },
+  {
+    "id": "005",
+    "sourceId": "054",
+    "word": "cronyism",
+    "voice": "matilda_us_female_clear",
+    "file": "005_cronyism.mp3"
+  },
+  {
+    "id": "006",
+    "sourceId": "061",
+    "word": "sclerosis",
+    "voice": "matilda_us_female_clear",
+    "file": "006_sclerosis.mp3"
+  },
+  {
+    "id": "007",
+    "sourceId": "065",
+    "word": "dissonance",
+    "voice": "matilda_us_female_clear",
+    "file": "007_dissonance.mp3"
+  },
+  {
+    "id": "008",
+    "sourceId": "071",
+    "word": "rancour",
+    "voice": "matilda_us_female_clear",
+    "file": "008_rancour.mp3"
+  },
+  {
+    "id": "009",
+    "sourceId": "103",
+    "word": "assimilation",
+    "voice": "matilda_us_female_clear",
+    "file": "009_assimilation.mp3"
+  },
+  {
+    "id": "010",
+    "sourceId": "108",
+    "word": "collateral",
+    "voice": "matilda_us_female_clear",
+    "file": "010_collateral.mp3"
+  },
+  {
+    "id": "011",
+    "sourceId": "110",
+    "word": "impeachment",
+    "voice": "matilda_us_female_clear",
+    "file": "011_impeachment.mp3"
+  },
+  {
+    "id": "012",
+    "sourceId": "118",
+    "word": "clemency",
+    "voice": "matilda_us_female_clear",
+    "file": "012_clemency.mp3"
+  },
+  {
+    "id": "013",
+    "sourceId": "124",
+    "word": "outsider",
+    "voice": "matilda_us_female_clear",
+    "file": "013_outsider.mp3"
+  },
+  {
+    "id": "014",
+    "sourceId": "133",
+    "word": "optimism",
+    "voice": "matilda_us_female_clear",
+    "file": "014_optimism.mp3"
+  },
+  {
+    "id": "015",
+    "sourceId": "134",
+    "word": "concession",
+    "voice": "matilda_us_female_clear",
+    "file": "015_concession.mp3"
+  },
+  {
+    "id": "016",
+    "sourceId": "144",
+    "word": "hostility",
+    "voice": "matilda_us_female_clear",
+    "file": "016_hostility.mp3"
+  },
+  {
+    "id": "017",
+    "sourceId": "167",
+    "word": "upheaval",
+    "voice": "matilda_us_female_clear",
+    "file": "017_upheaval.mp3"
+  },
+  {
+    "id": "018",
+    "sourceId": "180",
+    "word": "scepticism",
+    "voice": "matilda_us_female_clear",
+    "file": "018_scepticism.mp3"
+  },
+  {
+    "id": "019",
+    "sourceId": "198",
+    "word": "outskirt",
+    "voice": "matilda_us_female_clear",
+    "file": "019_outskirt.mp3"
+  },
+  {
+    "id": "020",
+    "sourceId": "220",
+    "word": "shortcoming",
+    "voice": "matilda_us_female_clear",
+    "file": "020_shortcoming.mp3"
+  },
+  {
+    "id": "021",
+    "sourceId": "241",
+    "word": "reformist",
+    "voice": "matilda_us_female_clear",
+    "file": "021_reformist.mp3"
+  },
+  {
+    "id": "022",
+    "sourceId": "245",
+    "word": "conscript",
+    "voice": "matilda_us_female_clear",
+    "file": "022_conscript.mp3"
+  },
+  {
+    "id": "023",
+    "sourceId": "268",
+    "word": "oligarchs",
+    "voice": "matilda_us_female_clear",
+    "file": "023_oligarchs.mp3"
+  },
+  {
+    "id": "024",
+    "sourceId": "281",
+    "word": "purveyor",
+    "voice": "matilda_us_female_clear",
+    "file": "024_purveyor.mp3"
+  },
+  {
+    "id": "025",
+    "sourceId": "287",
+    "word": "ideologue",
+    "voice": "matilda_us_female_clear",
+    "file": "025_ideologue.mp3"
+  },
+  {
+    "id": "026",
+    "sourceId": "294",
+    "word": "normality",
+    "voice": "matilda_us_female_clear",
+    "file": "026_normality.mp3"
+  },
+  {
+    "id": "027",
+    "sourceId": "301",
+    "word": "forebear",
+    "voice": "matilda_us_female_clear",
+    "file": "027_forebear.mp3"
+  },
+  {
+    "id": "028",
+    "sourceId": "320",
+    "word": "signatory",
+    "voice": "matilda_us_female_clear",
+    "file": "028_signatory.mp3"
+  },
+  {
+    "id": "029",
+    "sourceId": "333",
+    "word": "disarray",
+    "voice": "matilda_us_female_clear",
+    "file": "029_disarray.mp3"
+  },
+  {
+    "id": "030",
+    "sourceId": "347",
+    "word": "reprisal",
+    "voice": "matilda_us_female_clear",
+    "file": "030_reprisal.mp3"
+  },
+  {
+    "id": "031",
+    "sourceId": "348",
+    "word": "cashflow",
+    "voice": "matilda_us_female_clear",
+    "file": "031_cashflow.mp3"
+  },
+  {
+    "id": "032",
+    "sourceId": "360",
+    "word": "radicalism",
+    "voice": "matilda_us_female_clear",
+    "file": "032_radicalism.mp3"
+  },
+  {
+    "id": "033",
+    "sourceId": "361",
+    "word": "aristocrat",
+    "voice": "matilda_us_female_clear",
+    "file": "033_aristocrat.mp3"
+  },
+  {
+    "id": "034",
+    "sourceId": "362",
+    "word": "pragmatist",
+    "voice": "matilda_us_female_clear",
+    "file": "034_pragmatist.mp3"
+  },
+  {
+    "id": "035",
+    "sourceId": "383",
+    "word": "gridlock",
+    "voice": "matilda_us_female_clear",
+    "file": "035_gridlock.mp3"
+  },
+  {
+    "id": "036",
+    "sourceId": "384",
+    "word": "underling",
+    "voice": "matilda_us_female_clear",
+    "file": "036_underling.mp3"
+  },
+  {
+    "id": "037",
+    "sourceId": "401",
+    "word": "footstep",
+    "voice": "matilda_us_female_clear",
+    "file": "037_footstep.mp3"
+  },
+  {
+    "id": "038",
+    "sourceId": "402",
+    "word": "deadlock",
+    "voice": "matilda_us_female_clear",
+    "file": "038_deadlock.mp3"
+  },
+  {
+    "id": "039",
+    "sourceId": "424",
+    "word": "euphemism",
+    "voice": "matilda_us_female_clear",
+    "file": "039_euphemism.mp3"
+  },
+  {
+    "id": "040",
+    "sourceId": "427",
+    "word": "banknote",
+    "voice": "matilda_us_female_clear",
+    "file": "040_banknote.mp3"
+  },
+  {
+    "id": "041",
+    "sourceId": "447",
+    "word": "interceptor",
+    "voice": "matilda_us_female_clear",
+    "file": "041_interceptor.mp3"
+  },
+  {
+    "id": "042",
+    "sourceId": "450",
+    "word": "backwater",
+    "voice": "matilda_us_female_clear",
+    "file": "042_backwater.mp3"
+  },
+  {
+    "id": "043",
+    "sourceId": "454",
+    "word": "bulldozer",
+    "voice": "matilda_us_female_clear",
+    "file": "043_bulldozer.mp3"
+  },
+  {
+    "id": "044",
+    "sourceId": "456",
+    "word": "hesitancy",
+    "voice": "matilda_us_female_clear",
+    "file": "044_hesitancy.mp3"
+  },
+  {
+    "id": "045",
+    "sourceId": "465",
+    "word": "harbinger",
+    "voice": "matilda_us_female_clear",
+    "file": "045_harbinger.mp3"
+  },
+  {
+    "id": "046",
+    "sourceId": "501",
+    "word": "luminary",
+    "voice": "matilda_us_female_clear",
+    "file": "046_luminary.mp3"
+  },
+  {
+    "id": "047",
+    "sourceId": "502",
+    "word": "falsehood",
+    "voice": "matilda_us_female_clear",
+    "file": "047_falsehood.mp3"
+  },
+  {
+    "id": "048",
+    "sourceId": "509",
+    "word": "fraudster",
+    "voice": "matilda_us_female_clear",
+    "file": "048_fraudster.mp3"
+  },
+  {
+    "id": "049",
+    "sourceId": "520",
+    "word": "handover",
+    "voice": "matilda_us_female_clear",
+    "file": "049_handover.mp3"
+  },
+  {
+    "id": "050",
+    "sourceId": "523",
+    "word": "machination",
+    "voice": "matilda_us_female_clear",
+    "file": "050_machination.mp3"
+  },
+  {
+    "id": "051",
+    "sourceId": "535",
+    "word": "pessimist",
+    "voice": "matilda_us_female_clear",
+    "file": "051_pessimist.mp3"
+  },
+  {
+    "id": "052",
+    "sourceId": "538",
+    "word": "henchman",
+    "voice": "matilda_us_female_clear",
+    "file": "052_henchman.mp3"
+  },
+  {
+    "id": "053",
+    "sourceId": "544",
+    "word": "caseload",
+    "voice": "matilda_us_female_clear",
+    "file": "053_caseload.mp3"
+  },
+  {
+    "id": "054",
+    "sourceId": "547",
+    "word": "chauvinism",
+    "voice": "matilda_us_female_clear",
+    "file": "054_chauvinism.mp3"
+  },
+  {
+    "id": "055",
+    "sourceId": "548",
+    "word": "quandary",
+    "voice": "matilda_us_female_clear",
+    "file": "055_quandary.mp3"
+  },
+  {
+    "id": "056",
+    "sourceId": "554",
+    "word": "disquiet",
+    "voice": "matilda_us_female_clear",
+    "file": "056_disquiet.mp3"
+  },
+  {
+    "id": "057",
+    "sourceId": "559",
+    "word": "bellwether",
+    "voice": "matilda_us_female_clear",
+    "file": "057_bellwether.mp3"
+  },
+  {
+    "id": "058",
+    "sourceId": "561",
+    "word": "reshuffle",
+    "voice": "matilda_us_female_clear",
+    "file": "058_reshuffle.mp3"
+  },
+  {
+    "id": "059",
+    "sourceId": "562",
+    "word": "corollary",
+    "voice": "matilda_us_female_clear",
+    "file": "059_corollary.mp3"
+  },
+  {
+    "id": "060",
+    "sourceId": "568",
+    "word": "anathema",
+    "voice": "matilda_us_female_clear",
+    "file": "060_anathema.mp3"
+  },
+  {
+    "id": "061",
+    "sourceId": "574",
+    "word": "eagerness",
+    "voice": "matilda_us_female_clear",
+    "file": "061_eagerness.mp3"
+  },
+  {
+    "id": "062",
+    "sourceId": "944",
+    "word": "prospect",
+    "voice": "matilda_us_female_clear",
+    "file": "062_prospect.mp3"
+  },
+  {
+    "id": "063",
+    "sourceId": "945",
+    "word": "outlook",
+    "voice": "matilda_us_female_clear",
+    "file": "063_outlook.mp3"
+  },
+  {
+    "id": "064",
+    "sourceId": "946",
+    "word": "trajectory",
+    "voice": "matilda_us_female_clear",
+    "file": "064_trajectory.mp3"
+  },
+  {
+    "id": "065",
+    "sourceId": "947",
+    "word": "landscape",
+    "voice": "matilda_us_female_clear",
+    "file": "065_landscape.mp3"
+  },
+  {
+    "id": "066",
+    "sourceId": "948",
+    "word": "backdrop",
+    "voice": "matilda_us_female_clear",
+    "file": "066_backdrop.mp3"
+  },
+  {
+    "id": "067",
+    "sourceId": "950",
+    "word": "trade-off",
+    "voice": "matilda_us_female_clear",
+    "file": "067_trade_off.mp3"
+  },
+  {
+    "id": "068",
+    "sourceId": "951",
+    "word": "dilemma",
+    "voice": "matilda_us_female_clear",
+    "file": "068_dilemma.mp3"
+  },
+  {
+    "id": "069",
+    "sourceId": "952",
+    "word": "constraint",
+    "voice": "matilda_us_female_clear",
+    "file": "069_constraint.mp3"
+  },
+  {
+    "id": "070",
+    "sourceId": "953",
+    "word": "imperative",
+    "voice": "matilda_us_female_clear",
+    "file": "070_imperative.mp3"
+  },
+  {
+    "id": "071",
+    "sourceId": "588",
+    "word": "festivity",
+    "voice": "matilda_us_female_clear",
+    "file": "071_festivity.mp3"
+  },
+  {
+    "id": "072",
+    "sourceId": "605",
+    "word": "inducement",
+    "voice": "matilda_us_female_clear",
+    "file": "072_inducement.mp3"
+  },
+  {
+    "id": "073",
+    "sourceId": "616",
+    "word": "backbench",
+    "voice": "matilda_us_female_clear",
+    "file": "073_backbench.mp3"
+  },
+  {
+    "id": "074",
+    "sourceId": "618",
+    "word": "criminality",
+    "voice": "matilda_us_female_clear",
+    "file": "074_criminality.mp3"
+  },
+  {
+    "id": "075",
+    "sourceId": "625",
+    "word": "backbencher",
+    "voice": "matilda_us_female_clear",
+    "file": "075_backbencher.mp3"
+  },
+  {
+    "id": "076",
+    "sourceId": "636",
+    "word": "antipathy",
+    "voice": "matilda_us_female_clear",
+    "file": "076_antipathy.mp3"
+  },
+  {
+    "id": "077",
+    "sourceId": "653",
+    "word": "ecologist",
+    "voice": "matilda_us_female_clear",
+    "file": "077_ecologist.mp3"
+  },
+  {
+    "id": "078",
+    "sourceId": "658",
+    "word": "unanimity",
+    "voice": "matilda_us_female_clear",
+    "file": "078_unanimity.mp3"
+  },
+  {
+    "id": "079",
+    "sourceId": "676",
+    "word": "distaste",
+    "voice": "matilda_us_female_clear",
+    "file": "079_distaste.mp3"
+  },
+  {
+    "id": "080",
+    "sourceId": "682",
+    "word": "shenanigan",
+    "voice": "matilda_us_female_clear",
+    "file": "080_shenanigan.mp3"
+  },
+  {
+    "id": "081",
+    "sourceId": "686",
+    "word": "crossroad",
+    "voice": "matilda_us_female_clear",
+    "file": "081_crossroad.mp3"
+  },
+  {
+    "id": "082",
+    "sourceId": "698",
+    "word": "chronicler",
+    "voice": "matilda_us_female_clear",
+    "file": "082_chronicler.mp3"
+  },
+  {
+    "id": "083",
+    "sourceId": "715",
+    "word": "lockstep",
+    "voice": "matilda_us_female_clear",
+    "file": "083_lockstep.mp3"
+  },
+  {
+    "id": "084",
+    "sourceId": "733",
+    "word": "kickback",
+    "voice": "matilda_us_female_clear",
+    "file": "084_kickback.mp3"
+  },
+  {
+    "id": "085",
+    "sourceId": "735",
+    "word": "apparatchik",
+    "voice": "matilda_us_female_clear",
+    "file": "085_apparatchik.mp3"
+  },
+  {
+    "id": "086",
+    "sourceId": "738",
+    "word": "globalist",
+    "voice": "matilda_us_female_clear",
+    "file": "086_globalist.mp3"
+  },
+  {
+    "id": "087",
+    "sourceId": "741",
+    "word": "drudgery",
+    "voice": "matilda_us_female_clear",
+    "file": "087_drudgery.mp3"
+  },
+  {
+    "id": "088",
+    "sourceId": "755",
+    "word": "minefield",
+    "voice": "matilda_us_female_clear",
+    "file": "088_minefield.mp3"
+  },
+  {
+    "id": "089",
+    "sourceId": "761",
+    "word": "exhortation",
+    "voice": "matilda_us_female_clear",
+    "file": "089_exhortation.mp3"
+  },
+  {
+    "id": "090",
+    "sourceId": "763",
+    "word": "platitude",
+    "voice": "matilda_us_female_clear",
+    "file": "090_platitude.mp3"
+  },
+  {
+    "id": "091",
+    "sourceId": "764",
+    "word": "researcher",
+    "voice": "matilda_us_female_clear",
+    "file": "091_researcher.mp3"
+  },
+  {
+    "id": "092",
+    "sourceId": "766",
+    "word": "realignment",
+    "voice": "matilda_us_female_clear",
+    "file": "092_realignment.mp3"
+  },
+  {
+    "id": "093",
+    "sourceId": "771",
+    "word": "wherewithal",
+    "voice": "matilda_us_female_clear",
+    "file": "093_wherewithal.mp3"
+  },
+  {
+    "id": "094",
+    "sourceId": "772",
+    "word": "rustbelt",
+    "voice": "matilda_us_female_clear",
+    "file": "094_rustbelt.mp3"
+  },
+  {
+    "id": "095",
+    "sourceId": "775",
+    "word": "squabbling",
+    "voice": "matilda_us_female_clear",
+    "file": "095_squabbling.mp3"
+  },
+  {
+    "id": "096",
+    "sourceId": "785",
+    "word": "allusion",
+    "voice": "matilda_us_female_clear",
+    "file": "096_allusion.mp3"
+  },
+  {
+    "id": "097",
+    "sourceId": "787",
+    "word": "loggerhead",
+    "voice": "matilda_us_female_clear",
+    "file": "097_loggerhead.mp3"
+  },
+  {
+    "id": "098",
+    "sourceId": "789",
+    "word": "figurehead",
+    "voice": "matilda_us_female_clear",
+    "file": "098_figurehead.mp3"
+  },
+  {
+    "id": "099",
+    "sourceId": "794",
+    "word": "imitator",
+    "voice": "matilda_us_female_clear",
+    "file": "099_imitator.mp3"
+  },
+  {
+    "id": "100",
+    "sourceId": "804",
+    "word": "sideshow",
+    "voice": "matilda_us_female_clear",
+    "file": "100_sideshow.mp3"
+  },
+  {
+    "id": "101",
+    "sourceId": "805",
+    "word": "kleptocrat",
+    "voice": "matilda_us_female_clear",
+    "file": "101_kleptocrat.mp3"
+  },
+  {
+    "id": "102",
+    "sourceId": "808",
+    "word": "contraption",
+    "voice": "matilda_us_female_clear",
+    "file": "102_contraption.mp3"
+  },
+  {
+    "id": "103",
+    "sourceId": "816",
+    "word": "emissary",
+    "voice": "matilda_us_female_clear",
+    "file": "103_emissary.mp3"
+  },
+  {
+    "id": "104",
+    "sourceId": "819",
+    "word": "sweetener",
+    "voice": "matilda_us_female_clear",
+    "file": "104_sweetener.mp3"
+  },
+  {
+    "id": "105",
+    "sourceId": "821",
+    "word": "battering",
+    "voice": "matilda_us_female_clear",
+    "file": "105_battering.mp3"
+  },
+  {
+    "id": "106",
+    "sourceId": "825",
+    "word": "linchpin",
+    "voice": "matilda_us_female_clear",
+    "file": "106_linchpin.mp3"
+  },
+  {
+    "id": "107",
+    "sourceId": "826",
+    "word": "cacophony",
+    "voice": "matilda_us_female_clear",
+    "file": "107_cacophony.mp3"
+  },
+  {
+    "id": "108",
+    "sourceId": "829",
+    "word": "ferocity",
+    "voice": "matilda_us_female_clear",
+    "file": "108_ferocity.mp3"
+  },
+  {
+    "id": "109",
+    "sourceId": "834",
+    "word": "millimetre",
+    "voice": "matilda_us_female_clear",
+    "file": "109_millimetre.mp3"
+  },
+  {
+    "id": "110",
+    "sourceId": "874",
+    "word": "ambition",
+    "voice": "matilda_us_female_clear",
+    "file": "110_ambition.mp3"
+  },
+  {
+    "id": "111",
+    "sourceId": "876",
+    "word": "incentive",
+    "voice": "matilda_us_female_clear",
+    "file": "111_incentive.mp3"
+  }
+]
