@@ -1,0 +1,429 @@
+[
+  {
+    "id": "001",
+    "sourceId": "579",
+    "word": "painkiller",
+    "voice": "matilda_us_female_clear",
+    "file": "001_painkiller.mp3"
+  },
+  {
+    "id": "002",
+    "sourceId": "003",
+    "word": "resilience",
+    "voice": "matilda_us_female_clear",
+    "file": "002_resilience.mp3"
+  },
+  {
+    "id": "003",
+    "sourceId": "014",
+    "word": "curb",
+    "voice": "matilda_us_female_clear",
+    "file": "003_curb.mp3"
+  },
+  {
+    "id": "004",
+    "sourceId": "051",
+    "word": "fray",
+    "voice": "matilda_us_female_clear",
+    "file": "004_fray.mp3"
+  },
+  {
+    "id": "005",
+    "sourceId": "096",
+    "word": "decarbonise",
+    "voice": "matilda_us_female_clear",
+    "file": "005_decarbonise.mp3"
+  },
+  {
+    "id": "006",
+    "sourceId": "099",
+    "word": "segregation",
+    "voice": "matilda_us_female_clear",
+    "file": "006_segregation.mp3"
+  },
+  {
+    "id": "007",
+    "sourceId": "109",
+    "word": "methane",
+    "voice": "matilda_us_female_clear",
+    "file": "007_methane.mp3"
+  },
+  {
+    "id": "008",
+    "sourceId": "146",
+    "word": "populous",
+    "voice": "matilda_us_female_clear",
+    "file": "008_populous.mp3"
+  },
+  {
+    "id": "009",
+    "sourceId": "178",
+    "word": "fertiliser",
+    "voice": "matilda_us_female_clear",
+    "file": "009_fertiliser.mp3"
+  },
+  {
+    "id": "010",
+    "sourceId": "184",
+    "word": "biodiversity",
+    "voice": "matilda_us_female_clear",
+    "file": "010_biodiversity.mp3"
+  },
+  {
+    "id": "011",
+    "sourceId": "185",
+    "word": "electrification",
+    "voice": "matilda_us_female_clear",
+    "file": "011_electrification.mp3"
+  },
+  {
+    "id": "012",
+    "sourceId": "209",
+    "word": "influencer",
+    "voice": "matilda_us_female_clear",
+    "file": "012_influencer.mp3"
+  },
+  {
+    "id": "013",
+    "sourceId": "218",
+    "word": "hardliner",
+    "voice": "matilda_us_female_clear",
+    "file": "013_hardliner.mp3"
+  },
+  {
+    "id": "014",
+    "sourceId": "219",
+    "word": "demography",
+    "voice": "matilda_us_female_clear",
+    "file": "014_demography.mp3"
+  },
+  {
+    "id": "015",
+    "sourceId": "232",
+    "word": "fractious",
+    "voice": "matilda_us_female_clear",
+    "file": "015_fractious.mp3"
+  },
+  {
+    "id": "016",
+    "sourceId": "233",
+    "word": "polarise",
+    "voice": "matilda_us_female_clear",
+    "file": "016_polarise.mp3"
+  },
+  {
+    "id": "017",
+    "sourceId": "238",
+    "word": "hardline",
+    "voice": "matilda_us_female_clear",
+    "file": "017_hardline.mp3"
+  },
+  {
+    "id": "018",
+    "sourceId": "254",
+    "word": "compatriot",
+    "voice": "matilda_us_female_clear",
+    "file": "018_compatriot.mp3"
+  },
+  {
+    "id": "019",
+    "sourceId": "323",
+    "word": "supplant",
+    "voice": "matilda_us_female_clear",
+    "file": "019_supplant.mp3"
+  },
+  {
+    "id": "020",
+    "sourceId": "340",
+    "word": "pushback",
+    "voice": "matilda_us_female_clear",
+    "file": "020_pushback.mp3"
+  },
+  {
+    "id": "021",
+    "sourceId": "341",
+    "word": "megawatt",
+    "voice": "matilda_us_female_clear",
+    "file": "021_megawatt.mp3"
+  },
+  {
+    "id": "022",
+    "sourceId": "367",
+    "word": "jamboree",
+    "voice": "matilda_us_female_clear",
+    "file": "022_jamboree.mp3"
+  },
+  {
+    "id": "023",
+    "sourceId": "387",
+    "word": "joblessness",
+    "voice": "matilda_us_female_clear",
+    "file": "023_joblessness.mp3"
+  },
+  {
+    "id": "024",
+    "sourceId": "394",
+    "word": "urbanite",
+    "voice": "matilda_us_female_clear",
+    "file": "024_urbanite.mp3"
+  },
+  {
+    "id": "025",
+    "sourceId": "405",
+    "word": "unwieldy",
+    "voice": "matilda_us_female_clear",
+    "file": "025_unwieldy.mp3"
+  },
+  {
+    "id": "026",
+    "sourceId": "408",
+    "word": "ventilator",
+    "voice": "matilda_us_female_clear",
+    "file": "026_ventilator.mp3"
+  },
+  {
+    "id": "027",
+    "sourceId": "419",
+    "word": "antiviral",
+    "voice": "matilda_us_female_clear",
+    "file": "027_antiviral.mp3"
+  },
+  {
+    "id": "028",
+    "sourceId": "462",
+    "word": "linguist",
+    "voice": "matilda_us_female_clear",
+    "file": "028_linguist.mp3"
+  },
+  {
+    "id": "029",
+    "sourceId": "508",
+    "word": "headscarf",
+    "voice": "matilda_us_female_clear",
+    "file": "029_headscarf.mp3"
+  },
+  {
+    "id": "030",
+    "sourceId": "513",
+    "word": "demographer",
+    "voice": "matilda_us_female_clear",
+    "file": "030_demographer.mp3"
+  },
+  {
+    "id": "031",
+    "sourceId": "518",
+    "word": "meritocracy",
+    "voice": "matilda_us_female_clear",
+    "file": "031_meritocracy.mp3"
+  },
+  {
+    "id": "032",
+    "sourceId": "537",
+    "word": "pollutant",
+    "voice": "matilda_us_female_clear",
+    "file": "032_pollutant.mp3"
+  },
+  {
+    "id": "033",
+    "sourceId": "564",
+    "word": "countryman",
+    "voice": "matilda_us_female_clear",
+    "file": "033_countryman.mp3"
+  },
+  {
+    "id": "034",
+    "sourceId": "570",
+    "word": "dissenter",
+    "voice": "matilda_us_female_clear",
+    "file": "034_dissenter.mp3"
+  },
+  {
+    "id": "035",
+    "sourceId": "912",
+    "word": "urbanisation",
+    "voice": "matilda_us_female_clear",
+    "file": "035_urbanisation.mp3"
+  },
+  {
+    "id": "036",
+    "sourceId": "982",
+    "word": "ageing",
+    "voice": "matilda_us_female_clear",
+    "file": "036_ageing.mp3"
+  },
+  {
+    "id": "037",
+    "sourceId": "924",
+    "word": "schooling",
+    "voice": "matilda_us_female_clear",
+    "file": "037_schooling.mp3"
+  },
+  {
+    "id": "038",
+    "sourceId": "925",
+    "word": "curriculum",
+    "voice": "matilda_us_female_clear",
+    "file": "038_curriculum.mp3"
+  },
+  {
+    "id": "039",
+    "sourceId": "591",
+    "word": "worshipper",
+    "voice": "matilda_us_female_clear",
+    "file": "039_worshipper.mp3"
+  },
+  {
+    "id": "040",
+    "sourceId": "610",
+    "word": "chastise",
+    "voice": "matilda_us_female_clear",
+    "file": "040_chastise.mp3"
+  },
+  {
+    "id": "041",
+    "sourceId": "635",
+    "word": "enviable",
+    "voice": "matilda_us_female_clear",
+    "file": "041_enviable.mp3"
+  },
+  {
+    "id": "042",
+    "sourceId": "639",
+    "word": "sequester",
+    "voice": "matilda_us_female_clear",
+    "file": "042_sequester.mp3"
+  },
+  {
+    "id": "043",
+    "sourceId": "656",
+    "word": "hydropower",
+    "voice": "matilda_us_female_clear",
+    "file": "043_hydropower.mp3"
+  },
+  {
+    "id": "044",
+    "sourceId": "684",
+    "word": "altruism",
+    "voice": "matilda_us_female_clear",
+    "file": "044_altruism.mp3"
+  },
+  {
+    "id": "045",
+    "sourceId": "689",
+    "word": "infighting",
+    "voice": "matilda_us_female_clear",
+    "file": "045_infighting.mp3"
+  },
+  {
+    "id": "046",
+    "sourceId": "693",
+    "word": "paedophile",
+    "voice": "matilda_us_female_clear",
+    "file": "046_paedophile.mp3"
+  },
+  {
+    "id": "047",
+    "sourceId": "701",
+    "word": "gruelling",
+    "voice": "matilda_us_female_clear",
+    "file": "047_gruelling.mp3"
+  },
+  {
+    "id": "048",
+    "sourceId": "705",
+    "word": "mothball",
+    "voice": "matilda_us_female_clear",
+    "file": "048_mothball.mp3"
+  },
+  {
+    "id": "049",
+    "sourceId": "809",
+    "word": "homogenous",
+    "voice": "matilda_us_female_clear",
+    "file": "049_homogenous.mp3"
+  },
+  {
+    "id": "050",
+    "sourceId": "845",
+    "word": "accord",
+    "voice": "matilda_us_female_clear",
+    "file": "050_accord.mp3"
+  },
+  {
+    "id": "051",
+    "sourceId": "847",
+    "word": "pandemic",
+    "voice": "matilda_us_female_clear",
+    "file": "051_pandemic.mp3"
+  },
+  {
+    "id": "052",
+    "sourceId": "848",
+    "word": "emission",
+    "voice": "matilda_us_female_clear",
+    "file": "052_emission.mp3"
+  },
+  {
+    "id": "053",
+    "sourceId": "860",
+    "word": "inequality",
+    "voice": "matilda_us_female_clear",
+    "file": "053_inequality.mp3"
+  },
+  {
+    "id": "054",
+    "sourceId": "866",
+    "word": "demographic",
+    "voice": "matilda_us_female_clear",
+    "file": "054_demographic.mp3"
+  },
+  {
+    "id": "055",
+    "sourceId": "868",
+    "word": "drought",
+    "voice": "matilda_us_female_clear",
+    "file": "055_drought.mp3"
+  },
+  {
+    "id": "056",
+    "sourceId": "875",
+    "word": "fertility",
+    "voice": "matilda_us_female_clear",
+    "file": "056_fertility.mp3"
+  },
+  {
+    "id": "057",
+    "sourceId": "888",
+    "word": "class",
+    "voice": "matilda_us_female_clear",
+    "file": "057_class.mp3"
+  },
+  {
+    "id": "058",
+    "sourceId": "894",
+    "word": "transition",
+    "voice": "matilda_us_female_clear",
+    "file": "058_transition.mp3"
+  },
+  {
+    "id": "059",
+    "sourceId": "902",
+    "word": "grid",
+    "voice": "matilda_us_female_clear",
+    "file": "059_grid.mp3"
+  },
+  {
+    "id": "060",
+    "sourceId": "980",
+    "word": "adaptation",
+    "voice": "matilda_us_female_clear",
+    "file": "060_adaptation.mp3"
+  },
+  {
+    "id": "061",
+    "sourceId": "978",
+    "word": "environmental",
+    "voice": "matilda_us_female_clear",
+    "file": "061_environmental.mp3"
+  }
+]
