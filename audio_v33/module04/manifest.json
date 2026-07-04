@@ -1,0 +1,569 @@
+[
+  {
+    "id": "001",
+    "sourceId": "008",
+    "word": "fragmentation",
+    "voice": "matilda_us_female_clear",
+    "file": "001_fragmentation.mp3"
+  },
+  {
+    "id": "002",
+    "sourceId": "030",
+    "word": "squeeze",
+    "voice": "matilda_us_female_clear",
+    "file": "002_squeeze.mp3"
+  },
+  {
+    "id": "003",
+    "sourceId": "122",
+    "word": "bureaucracy",
+    "voice": "matilda_us_female_clear",
+    "file": "003_bureaucracy.mp3"
+  },
+  {
+    "id": "004",
+    "sourceId": "129",
+    "word": "implication",
+    "voice": "matilda_us_female_clear",
+    "file": "004_implication.mp3"
+  },
+  {
+    "id": "005",
+    "sourceId": "135",
+    "word": "logistic",
+    "voice": "matilda_us_female_clear",
+    "file": "005_logistic.mp3"
+  },
+  {
+    "id": "006",
+    "sourceId": "193",
+    "word": "munition",
+    "voice": "matilda_us_female_clear",
+    "file": "006_munition.mp3"
+  },
+  {
+    "id": "007",
+    "sourceId": "213",
+    "word": "remittance",
+    "voice": "matilda_us_female_clear",
+    "file": "007_remittance.mp3"
+  },
+  {
+    "id": "008",
+    "sourceId": "217",
+    "word": "pragmatism",
+    "voice": "matilda_us_female_clear",
+    "file": "008_pragmatism.mp3"
+  },
+  {
+    "id": "009",
+    "sourceId": "240",
+    "word": "dynamism",
+    "voice": "matilda_us_female_clear",
+    "file": "009_dynamism.mp3"
+  },
+  {
+    "id": "010",
+    "sourceId": "244",
+    "word": "middleman",
+    "voice": "matilda_us_female_clear",
+    "file": "010_middleman.mp3"
+  },
+  {
+    "id": "011",
+    "sourceId": "246",
+    "word": "nationalise",
+    "voice": "matilda_us_female_clear",
+    "file": "011_nationalise.mp3"
+  },
+  {
+    "id": "012",
+    "sourceId": "261",
+    "word": "bankroll",
+    "voice": "matilda_us_female_clear",
+    "file": "012_bankroll.mp3"
+  },
+  {
+    "id": "013",
+    "sourceId": "265",
+    "word": "boardroom",
+    "voice": "matilda_us_female_clear",
+    "file": "013_boardroom.mp3"
+  },
+  {
+    "id": "014",
+    "sourceId": "267",
+    "word": "plutocrat",
+    "voice": "matilda_us_female_clear",
+    "file": "014_plutocrat.mp3"
+  },
+  {
+    "id": "015",
+    "sourceId": "300",
+    "word": "reprieve",
+    "voice": "matilda_us_female_clear",
+    "file": "015_reprieve.mp3"
+  },
+  {
+    "id": "016",
+    "sourceId": "305",
+    "word": "contaminate",
+    "voice": "matilda_us_female_clear",
+    "file": "016_contaminate.mp3"
+  },
+  {
+    "id": "017",
+    "sourceId": "338",
+    "word": "shopkeeper",
+    "voice": "matilda_us_female_clear",
+    "file": "017_shopkeeper.mp3"
+  },
+  {
+    "id": "018",
+    "sourceId": "343",
+    "word": "privatise",
+    "voice": "matilda_us_female_clear",
+    "file": "018_privatise.mp3"
+  },
+  {
+    "id": "019",
+    "sourceId": "358",
+    "word": "unlisted",
+    "voice": "matilda_us_female_clear",
+    "file": "019_unlisted.mp3"
+  },
+  {
+    "id": "020",
+    "sourceId": "370",
+    "word": "speculator",
+    "voice": "matilda_us_female_clear",
+    "file": "020_speculator.mp3"
+  },
+  {
+    "id": "021",
+    "sourceId": "372",
+    "word": "homebuyer",
+    "voice": "matilda_us_female_clear",
+    "file": "021_homebuyer.mp3"
+  },
+  {
+    "id": "022",
+    "sourceId": "386",
+    "word": "pessimism",
+    "voice": "matilda_us_female_clear",
+    "file": "022_pessimism.mp3"
+  },
+  {
+    "id": "023",
+    "sourceId": "389",
+    "word": "undersea",
+    "voice": "matilda_us_female_clear",
+    "file": "023_undersea.mp3"
+  },
+  {
+    "id": "024",
+    "sourceId": "422",
+    "word": "decoupling",
+    "voice": "matilda_us_female_clear",
+    "file": "024_decoupling.mp3"
+  },
+  {
+    "id": "025",
+    "sourceId": "467",
+    "word": "dealmaker",
+    "voice": "matilda_us_female_clear",
+    "file": "025_dealmaker.mp3"
+  },
+  {
+    "id": "026",
+    "sourceId": "476",
+    "word": "wrangling",
+    "voice": "matilda_us_female_clear",
+    "file": "026_wrangling.mp3"
+  },
+  {
+    "id": "027",
+    "sourceId": "494",
+    "word": "dealmaking",
+    "voice": "matilda_us_female_clear",
+    "file": "027_dealmaking.mp3"
+  },
+  {
+    "id": "028",
+    "sourceId": "497",
+    "word": "rebalance",
+    "voice": "matilda_us_female_clear",
+    "file": "028_rebalance.mp3"
+  },
+  {
+    "id": "029",
+    "sourceId": "498",
+    "word": "legitimise",
+    "voice": "matilda_us_female_clear",
+    "file": "029_legitimise.mp3"
+  },
+  {
+    "id": "030",
+    "sourceId": "514",
+    "word": "gatekeeper",
+    "voice": "matilda_us_female_clear",
+    "file": "030_gatekeeper.mp3"
+  },
+  {
+    "id": "031",
+    "sourceId": "522",
+    "word": "repatriate",
+    "voice": "matilda_us_female_clear",
+    "file": "031_repatriate.mp3"
+  },
+  {
+    "id": "032",
+    "sourceId": "536",
+    "word": "steelmaker",
+    "voice": "matilda_us_female_clear",
+    "file": "032_steelmaker.mp3"
+  },
+  {
+    "id": "033",
+    "sourceId": "545",
+    "word": "steelmaking",
+    "voice": "matilda_us_female_clear",
+    "file": "033_steelmaking.mp3"
+  },
+  {
+    "id": "034",
+    "sourceId": "576",
+    "word": "mismanage",
+    "voice": "matilda_us_female_clear",
+    "file": "034_mismanage.mp3"
+  },
+  {
+    "id": "035",
+    "sourceId": "909",
+    "word": "reshoring",
+    "voice": "matilda_us_female_clear",
+    "file": "035_reshoring.mp3"
+  },
+  {
+    "id": "036",
+    "sourceId": "910",
+    "word": "offshore",
+    "voice": "matilda_us_female_clear",
+    "file": "036_offshore.mp3"
+  },
+  {
+    "id": "037",
+    "sourceId": "911",
+    "word": "outsourcing",
+    "voice": "matilda_us_female_clear",
+    "file": "037_outsourcing.mp3"
+  },
+  {
+    "id": "038",
+    "sourceId": "913",
+    "word": "logistics",
+    "voice": "matilda_us_female_clear",
+    "file": "038_logistics.mp3"
+  },
+  {
+    "id": "039",
+    "sourceId": "914",
+    "word": "bottleneck",
+    "voice": "matilda_us_female_clear",
+    "file": "039_bottleneck.mp3"
+  },
+  {
+    "id": "040",
+    "sourceId": "915",
+    "word": "shipment",
+    "voice": "matilda_us_female_clear",
+    "file": "040_shipment.mp3"
+  },
+  {
+    "id": "041",
+    "sourceId": "916",
+    "word": "exporter",
+    "voice": "matilda_us_female_clear",
+    "file": "041_exporter.mp3"
+  },
+  {
+    "id": "042",
+    "sourceId": "917",
+    "word": "bilateral",
+    "voice": "matilda_us_female_clear",
+    "file": "042_bilateral.mp3"
+  },
+  {
+    "id": "043",
+    "sourceId": "918",
+    "word": "multilateral",
+    "voice": "matilda_us_female_clear",
+    "file": "043_multilateral.mp3"
+  },
+  {
+    "id": "044",
+    "sourceId": "919",
+    "word": "conglomerate",
+    "voice": "matilda_us_female_clear",
+    "file": "044_conglomerate.mp3"
+  },
+  {
+    "id": "045",
+    "sourceId": "920",
+    "word": "venture",
+    "voice": "matilda_us_female_clear",
+    "file": "045_venture.mp3"
+  },
+  {
+    "id": "046",
+    "sourceId": "921",
+    "word": "creditor",
+    "voice": "matilda_us_female_clear",
+    "file": "046_creditor.mp3"
+  },
+  {
+    "id": "047",
+    "sourceId": "922",
+    "word": "exemption",
+    "voice": "matilda_us_female_clear",
+    "file": "047_exemption.mp3"
+  },
+  {
+    "id": "048",
+    "sourceId": "587",
+    "word": "seaborne",
+    "voice": "matilda_us_female_clear",
+    "file": "048_seaborne.mp3"
+  },
+  {
+    "id": "049",
+    "sourceId": "590",
+    "word": "headcount",
+    "voice": "matilda_us_female_clear",
+    "file": "049_headcount.mp3"
+  },
+  {
+    "id": "050",
+    "sourceId": "603",
+    "word": "expatriate",
+    "voice": "matilda_us_female_clear",
+    "file": "050_expatriate.mp3"
+  },
+  {
+    "id": "051",
+    "sourceId": "626",
+    "word": "reallocate",
+    "voice": "matilda_us_female_clear",
+    "file": "051_reallocate.mp3"
+  },
+  {
+    "id": "052",
+    "sourceId": "630",
+    "word": "yardstick",
+    "voice": "matilda_us_female_clear",
+    "file": "052_yardstick.mp3"
+  },
+  {
+    "id": "053",
+    "sourceId": "643",
+    "word": "emigrant",
+    "voice": "matilda_us_female_clear",
+    "file": "053_emigrant.mp3"
+  },
+  {
+    "id": "054",
+    "sourceId": "648",
+    "word": "sportswear",
+    "voice": "matilda_us_female_clear",
+    "file": "054_sportswear.mp3"
+  },
+  {
+    "id": "055",
+    "sourceId": "681",
+    "word": "outsized",
+    "voice": "matilda_us_female_clear",
+    "file": "055_outsized.mp3"
+  },
+  {
+    "id": "056",
+    "sourceId": "697",
+    "word": "feedstock",
+    "voice": "matilda_us_female_clear",
+    "file": "056_feedstock.mp3"
+  },
+  {
+    "id": "057",
+    "sourceId": "711",
+    "word": "offshoot",
+    "voice": "matilda_us_female_clear",
+    "file": "057_offshoot.mp3"
+  },
+  {
+    "id": "058",
+    "sourceId": "750",
+    "word": "upmarket",
+    "voice": "matilda_us_female_clear",
+    "file": "058_upmarket.mp3"
+  },
+  {
+    "id": "059",
+    "sourceId": "751",
+    "word": "monopolise",
+    "voice": "matilda_us_female_clear",
+    "file": "059_monopolise.mp3"
+  },
+  {
+    "id": "060",
+    "sourceId": "753",
+    "word": "unionised",
+    "voice": "matilda_us_female_clear",
+    "file": "060_unionised.mp3"
+  },
+  {
+    "id": "061",
+    "sourceId": "758",
+    "word": "deregulate",
+    "voice": "matilda_us_female_clear",
+    "file": "061_deregulate.mp3"
+  },
+  {
+    "id": "062",
+    "sourceId": "759",
+    "word": "divestment",
+    "voice": "matilda_us_female_clear",
+    "file": "062_divestment.mp3"
+  },
+  {
+    "id": "063",
+    "sourceId": "768",
+    "word": "pugnacious",
+    "voice": "matilda_us_female_clear",
+    "file": "063_pugnacious.mp3"
+  },
+  {
+    "id": "064",
+    "sourceId": "784",
+    "word": "entrepot",
+    "voice": "matilda_us_female_clear",
+    "file": "064_entrepot.mp3"
+  },
+  {
+    "id": "065",
+    "sourceId": "801",
+    "word": "midsized",
+    "voice": "matilda_us_female_clear",
+    "file": "065_midsized.mp3"
+  },
+  {
+    "id": "066",
+    "sourceId": "812",
+    "word": "workhorse",
+    "voice": "matilda_us_female_clear",
+    "file": "066_workhorse.mp3"
+  },
+  {
+    "id": "067",
+    "sourceId": "823",
+    "word": "kamikaze",
+    "voice": "matilda_us_female_clear",
+    "file": "067_kamikaze.mp3"
+  },
+  {
+    "id": "068",
+    "sourceId": "831",
+    "word": "sectoral",
+    "voice": "matilda_us_female_clear",
+    "file": "068_sectoral.mp3"
+  },
+  {
+    "id": "069",
+    "sourceId": "839",
+    "word": "resupply",
+    "voice": "matilda_us_female_clear",
+    "file": "069_resupply.mp3"
+  },
+  {
+    "id": "070",
+    "sourceId": "850",
+    "word": "startup",
+    "voice": "matilda_us_female_clear",
+    "file": "070_startup.mp3"
+  },
+  {
+    "id": "071",
+    "sourceId": "853",
+    "word": "shareholder",
+    "voice": "matilda_us_female_clear",
+    "file": "071_shareholder.mp3"
+  },
+  {
+    "id": "072",
+    "sourceId": "856",
+    "word": "tariff",
+    "voice": "matilda_us_female_clear",
+    "file": "072_tariff.mp3"
+  },
+  {
+    "id": "073",
+    "sourceId": "863",
+    "word": "merger",
+    "voice": "matilda_us_female_clear",
+    "file": "073_merger.mp3"
+  },
+  {
+    "id": "074",
+    "sourceId": "867",
+    "word": "monopoly",
+    "voice": "matilda_us_female_clear",
+    "file": "074_monopoly.mp3"
+  },
+  {
+    "id": "075",
+    "sourceId": "872",
+    "word": "restriction",
+    "voice": "matilda_us_female_clear",
+    "file": "075_restriction.mp3"
+  },
+  {
+    "id": "076",
+    "sourceId": "882",
+    "word": "globalisation",
+    "voice": "matilda_us_female_clear",
+    "file": "076_globalisation.mp3"
+  },
+  {
+    "id": "077",
+    "sourceId": "883",
+    "word": "protectionism",
+    "voice": "matilda_us_female_clear",
+    "file": "077_protectionism.mp3"
+  },
+  {
+    "id": "078",
+    "sourceId": "887",
+    "word": "executive",
+    "voice": "matilda_us_female_clear",
+    "file": "078_executive.mp3"
+  },
+  {
+    "id": "079",
+    "sourceId": "900",
+    "word": "migration",
+    "voice": "matilda_us_female_clear",
+    "file": "079_migration.mp3"
+  },
+  {
+    "id": "080",
+    "sourceId": "906",
+    "word": "acquisition",
+    "voice": "matilda_us_female_clear",
+    "file": "080_acquisition.mp3"
+  },
+  {
+    "id": "081",
+    "sourceId": "923",
+    "word": "manufacturing",
+    "voice": "matilda_us_female_clear",
+    "file": "081_manufacturing.mp3"
+  }
+]
