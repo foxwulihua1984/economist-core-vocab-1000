@@ -1,0 +1,373 @@
+[
+  {
+    "id": "001",
+    "sourceId": "049",
+    "word": "overreach",
+    "voice": "matilda_us_female_clear",
+    "file": "001_overreach.mp3"
+  },
+  {
+    "id": "002",
+    "sourceId": "085",
+    "word": "antitrust",
+    "voice": "matilda_us_female_clear",
+    "file": "002_antitrust.mp3"
+  },
+  {
+    "id": "003",
+    "sourceId": "086",
+    "word": "immunity",
+    "voice": "matilda_us_female_clear",
+    "file": "003_immunity.mp3"
+  },
+  {
+    "id": "004",
+    "sourceId": "093",
+    "word": "litigation",
+    "voice": "matilda_us_female_clear",
+    "file": "004_litigation.mp3"
+  },
+  {
+    "id": "005",
+    "sourceId": "094",
+    "word": "statute",
+    "voice": "matilda_us_female_clear",
+    "file": "005_statute.mp3"
+  },
+  {
+    "id": "006",
+    "sourceId": "113",
+    "word": "injunction",
+    "voice": "matilda_us_female_clear",
+    "file": "006_injunction.mp3"
+  },
+  {
+    "id": "007",
+    "sourceId": "114",
+    "word": "extradition",
+    "voice": "matilda_us_female_clear",
+    "file": "007_extradition.mp3"
+  },
+  {
+    "id": "008",
+    "sourceId": "115",
+    "word": "insolvency",
+    "voice": "matilda_us_female_clear",
+    "file": "008_insolvency.mp3"
+  },
+  {
+    "id": "009",
+    "sourceId": "120",
+    "word": "liability",
+    "voice": "matilda_us_female_clear",
+    "file": "009_liability.mp3"
+  },
+  {
+    "id": "010",
+    "sourceId": "121",
+    "word": "prosecution",
+    "voice": "matilda_us_female_clear",
+    "file": "010_prosecution.mp3"
+  },
+  {
+    "id": "011",
+    "sourceId": "147",
+    "word": "accusation",
+    "voice": "matilda_us_female_clear",
+    "file": "011_accusation.mp3"
+  },
+  {
+    "id": "012",
+    "sourceId": "186",
+    "word": "arbitration",
+    "voice": "matilda_us_female_clear",
+    "file": "012_arbitration.mp3"
+  },
+  {
+    "id": "013",
+    "sourceId": "190",
+    "word": "authorise",
+    "voice": "matilda_us_female_clear",
+    "file": "013_authorise.mp3"
+  },
+  {
+    "id": "014",
+    "sourceId": "191",
+    "word": "credential",
+    "voice": "matilda_us_female_clear",
+    "file": "014_credential.mp3"
+  },
+  {
+    "id": "015",
+    "sourceId": "196",
+    "word": "imprison",
+    "voice": "matilda_us_female_clear",
+    "file": "015_imprison.mp3"
+  },
+  {
+    "id": "016",
+    "sourceId": "201",
+    "word": "draconian",
+    "voice": "matilda_us_female_clear",
+    "file": "016_draconian.mp3"
+  },
+  {
+    "id": "017",
+    "sourceId": "222",
+    "word": "enshrine",
+    "voice": "matilda_us_female_clear",
+    "file": "017_enshrine.mp3"
+  },
+  {
+    "id": "018",
+    "sourceId": "228",
+    "word": "emigrate",
+    "voice": "matilda_us_female_clear",
+    "file": "018_emigrate.mp3"
+  },
+  {
+    "id": "019",
+    "sourceId": "250",
+    "word": "criminalise",
+    "voice": "matilda_us_female_clear",
+    "file": "019_criminalise.mp3"
+  },
+  {
+    "id": "020",
+    "sourceId": "251",
+    "word": "incursion",
+    "voice": "matilda_us_female_clear",
+    "file": "020_incursion.mp3"
+  },
+  {
+    "id": "021",
+    "sourceId": "253",
+    "word": "persecute",
+    "voice": "matilda_us_female_clear",
+    "file": "021_persecute.mp3"
+  },
+  {
+    "id": "022",
+    "sourceId": "274",
+    "word": "penalise",
+    "voice": "matilda_us_female_clear",
+    "file": "022_penalise.mp3"
+  },
+  {
+    "id": "023",
+    "sourceId": "295",
+    "word": "enforcer",
+    "voice": "matilda_us_female_clear",
+    "file": "023_enforcer.mp3"
+  },
+  {
+    "id": "024",
+    "sourceId": "319",
+    "word": "workaround",
+    "voice": "matilda_us_female_clear",
+    "file": "024_workaround.mp3"
+  },
+  {
+    "id": "025",
+    "sourceId": "337",
+    "word": "clampdown",
+    "voice": "matilda_us_female_clear",
+    "file": "025_clampdown.mp3"
+  },
+  {
+    "id": "026",
+    "sourceId": "346",
+    "word": "overrule",
+    "voice": "matilda_us_female_clear",
+    "file": "026_overrule.mp3"
+  },
+  {
+    "id": "027",
+    "sourceId": "354",
+    "word": "disqualify",
+    "voice": "matilda_us_female_clear",
+    "file": "027_disqualify.mp3"
+  },
+  {
+    "id": "028",
+    "sourceId": "356",
+    "word": "stipulate",
+    "voice": "matilda_us_female_clear",
+    "file": "028_stipulate.mp3"
+  },
+  {
+    "id": "029",
+    "sourceId": "369",
+    "word": "stricture",
+    "voice": "matilda_us_female_clear",
+    "file": "029_stricture.mp3"
+  },
+  {
+    "id": "030",
+    "sourceId": "373",
+    "word": "confiscate",
+    "voice": "matilda_us_female_clear",
+    "file": "030_confiscate.mp3"
+  },
+  {
+    "id": "031",
+    "sourceId": "379",
+    "word": "detainee",
+    "voice": "matilda_us_female_clear",
+    "file": "031_detainee.mp3"
+  },
+  {
+    "id": "032",
+    "sourceId": "381",
+    "word": "trafficker",
+    "voice": "matilda_us_female_clear",
+    "file": "032_trafficker.mp3"
+  },
+  {
+    "id": "033",
+    "sourceId": "466",
+    "word": "favourably",
+    "voice": "matilda_us_female_clear",
+    "file": "033_favourably.mp3"
+  },
+  {
+    "id": "034",
+    "sourceId": "495",
+    "word": "castigate",
+    "voice": "matilda_us_female_clear",
+    "file": "034_castigate.mp3"
+  },
+  {
+    "id": "035",
+    "sourceId": "534",
+    "word": "burdensome",
+    "voice": "matilda_us_female_clear",
+    "file": "035_burdensome.mp3"
+  },
+  {
+    "id": "036",
+    "sourceId": "558",
+    "word": "lawlessness",
+    "voice": "matilda_us_female_clear",
+    "file": "036_lawlessness.mp3"
+  },
+  {
+    "id": "037",
+    "sourceId": "631",
+    "word": "courtier",
+    "voice": "matilda_us_female_clear",
+    "file": "037_courtier.mp3"
+  },
+  {
+    "id": "038",
+    "sourceId": "646",
+    "word": "adjudicate",
+    "voice": "matilda_us_female_clear",
+    "file": "038_adjudicate.mp3"
+  },
+  {
+    "id": "039",
+    "sourceId": "672",
+    "word": "reaffirm",
+    "voice": "matilda_us_female_clear",
+    "file": "039_reaffirm.mp3"
+  },
+  {
+    "id": "040",
+    "sourceId": "709",
+    "word": "incitement",
+    "voice": "matilda_us_female_clear",
+    "file": "040_incitement.mp3"
+  },
+  {
+    "id": "041",
+    "sourceId": "752",
+    "word": "preemptively",
+    "voice": "matilda_us_female_clear",
+    "file": "041_preemptively.mp3"
+  },
+  {
+    "id": "042",
+    "sourceId": "792",
+    "word": "incarcerate",
+    "voice": "matilda_us_female_clear",
+    "file": "042_incarcerate.mp3"
+  },
+  {
+    "id": "043",
+    "sourceId": "820",
+    "word": "blowback",
+    "voice": "matilda_us_female_clear",
+    "file": "043_blowback.mp3"
+  },
+  {
+    "id": "044",
+    "sourceId": "833",
+    "word": "promulgate",
+    "voice": "matilda_us_female_clear",
+    "file": "044_promulgate.mp3"
+  },
+  {
+    "id": "045",
+    "sourceId": "838",
+    "word": "expropriate",
+    "voice": "matilda_us_female_clear",
+    "file": "045_expropriate.mp3"
+  },
+  {
+    "id": "046",
+    "sourceId": "859",
+    "word": "scrutiny",
+    "voice": "matilda_us_female_clear",
+    "file": "046_scrutiny.mp3"
+  },
+  {
+    "id": "047",
+    "sourceId": "873",
+    "word": "govern",
+    "voice": "matilda_us_female_clear",
+    "file": "047_govern.mp3"
+  },
+  {
+    "id": "048",
+    "sourceId": "892",
+    "word": "regulation",
+    "voice": "matilda_us_female_clear",
+    "file": "048_regulation.mp3"
+  },
+  {
+    "id": "049",
+    "sourceId": "898",
+    "word": "regulatory",
+    "voice": "matilda_us_female_clear",
+    "file": "049_regulatory.mp3"
+  },
+  {
+    "id": "050",
+    "sourceId": "901",
+    "word": "governance",
+    "voice": "matilda_us_female_clear",
+    "file": "050_governance.mp3"
+  },
+  {
+    "id": "051",
+    "sourceId": "905",
+    "word": "enforcement",
+    "voice": "matilda_us_female_clear",
+    "file": "051_enforcement.mp3"
+  },
+  {
+    "id": "052",
+    "sourceId": "907",
+    "word": "lawsuit",
+    "voice": "matilda_us_female_clear",
+    "file": "052_lawsuit.mp3"
+  },
+  {
+    "id": "053",
+    "sourceId": "981",
+    "word": "compliance",
+    "voice": "matilda_us_female_clear",
+    "file": "053_compliance.mp3"
+  }
+]
