@@ -1,0 +1,793 @@
+[
+  {
+    "id": "001",
+    "sourceId": "397",
+    "word": "vanquish",
+    "voice": "matilda_us_female_clear",
+    "file": "001_vanquish.mp3"
+  },
+  {
+    "id": "002",
+    "sourceId": "005",
+    "word": "autocracy",
+    "voice": "matilda_us_female_clear",
+    "file": "002_autocracy.mp3"
+  },
+  {
+    "id": "003",
+    "sourceId": "006",
+    "word": "dysfunction",
+    "voice": "matilda_us_female_clear",
+    "file": "003_dysfunction.mp3"
+  },
+  {
+    "id": "004",
+    "sourceId": "010",
+    "word": "brinkmanship",
+    "voice": "matilda_us_female_clear",
+    "file": "004_brinkmanship.mp3"
+  },
+  {
+    "id": "005",
+    "sourceId": "012",
+    "word": "appeasement",
+    "voice": "matilda_us_female_clear",
+    "file": "005_appeasement.mp3"
+  },
+  {
+    "id": "006",
+    "sourceId": "039",
+    "word": "orthodoxy",
+    "voice": "matilda_us_female_clear",
+    "file": "006_orthodoxy.mp3"
+  },
+  {
+    "id": "007",
+    "sourceId": "046",
+    "word": "paralysis",
+    "voice": "matilda_us_female_clear",
+    "file": "007_paralysis.mp3"
+  },
+  {
+    "id": "008",
+    "sourceId": "048",
+    "word": "hegemony",
+    "voice": "matilda_us_female_clear",
+    "file": "008_hegemony.mp3"
+  },
+  {
+    "id": "009",
+    "sourceId": "063",
+    "word": "ineptitude",
+    "voice": "matilda_us_female_clear",
+    "file": "009_ineptitude.mp3"
+  },
+  {
+    "id": "010",
+    "sourceId": "066",
+    "word": "militia",
+    "voice": "matilda_us_female_clear",
+    "file": "010_militia.mp3"
+  },
+  {
+    "id": "011",
+    "sourceId": "067",
+    "word": "incumbent",
+    "voice": "matilda_us_female_clear",
+    "file": "011_incumbent.mp3"
+  },
+  {
+    "id": "012",
+    "sourceId": "068",
+    "word": "panacea",
+    "voice": "matilda_us_female_clear",
+    "file": "012_panacea.mp3"
+  },
+  {
+    "id": "013",
+    "sourceId": "077",
+    "word": "ceasefire",
+    "voice": "matilda_us_female_clear",
+    "file": "013_ceasefire.mp3"
+  },
+  {
+    "id": "014",
+    "sourceId": "088",
+    "word": "insurgency",
+    "voice": "matilda_us_female_clear",
+    "file": "014_insurgency.mp3"
+  },
+  {
+    "id": "015",
+    "sourceId": "090",
+    "word": "coercion",
+    "voice": "matilda_us_female_clear",
+    "file": "015_coercion.mp3"
+  },
+  {
+    "id": "016",
+    "sourceId": "091",
+    "word": "hawkish",
+    "voice": "matilda_us_female_clear",
+    "file": "016_hawkish.mp3"
+  },
+  {
+    "id": "017",
+    "sourceId": "095",
+    "word": "deterrence",
+    "voice": "matilda_us_female_clear",
+    "file": "017_deterrence.mp3"
+  },
+  {
+    "id": "018",
+    "sourceId": "105",
+    "word": "dovish",
+    "voice": "matilda_us_female_clear",
+    "file": "018_dovish.mp3"
+  },
+  {
+    "id": "019",
+    "sourceId": "106",
+    "word": "junta",
+    "voice": "matilda_us_female_clear",
+    "file": "019_junta.mp3"
+  },
+  {
+    "id": "020",
+    "sourceId": "112",
+    "word": "technocrat",
+    "voice": "matilda_us_female_clear",
+    "file": "020_technocrat.mp3"
+  },
+  {
+    "id": "021",
+    "sourceId": "123",
+    "word": "dictator",
+    "voice": "matilda_us_female_clear",
+    "file": "021_dictator.mp3"
+  },
+  {
+    "id": "022",
+    "sourceId": "130",
+    "word": "centrist",
+    "voice": "matilda_us_female_clear",
+    "file": "022_centrist.mp3"
+  },
+  {
+    "id": "023",
+    "sourceId": "137",
+    "word": "repression",
+    "voice": "matilda_us_female_clear",
+    "file": "023_repression.mp3"
+  },
+  {
+    "id": "024",
+    "sourceId": "149",
+    "word": "atrocity",
+    "voice": "matilda_us_female_clear",
+    "file": "024_atrocity.mp3"
+  },
+  {
+    "id": "025",
+    "sourceId": "151",
+    "word": "adversary",
+    "voice": "matilda_us_female_clear",
+    "file": "025_adversary.mp3"
+  },
+  {
+    "id": "026",
+    "sourceId": "152",
+    "word": "escalation",
+    "voice": "matilda_us_female_clear",
+    "file": "026_escalation.mp3"
+  },
+  {
+    "id": "027",
+    "sourceId": "156",
+    "word": "electorate",
+    "voice": "matilda_us_female_clear",
+    "file": "027_electorate.mp3"
+  },
+  {
+    "id": "028",
+    "sourceId": "157",
+    "word": "populism",
+    "voice": "matilda_us_female_clear",
+    "file": "028_populism.mp3"
+  },
+  {
+    "id": "029",
+    "sourceId": "158",
+    "word": "separatist",
+    "voice": "matilda_us_female_clear",
+    "file": "029_separatist.mp3"
+  },
+  {
+    "id": "030",
+    "sourceId": "159",
+    "word": "disastrous",
+    "voice": "matilda_us_female_clear",
+    "file": "030_disastrous.mp3"
+  },
+  {
+    "id": "031",
+    "sourceId": "168",
+    "word": "extremist",
+    "voice": "matilda_us_female_clear",
+    "file": "031_extremist.mp3"
+  },
+  {
+    "id": "032",
+    "sourceId": "171",
+    "word": "jihadist",
+    "voice": "matilda_us_female_clear",
+    "file": "032_jihadist.mp3"
+  },
+  {
+    "id": "033",
+    "sourceId": "173",
+    "word": "mobilise",
+    "voice": "matilda_us_female_clear",
+    "file": "033_mobilise.mp3"
+  },
+  {
+    "id": "034",
+    "sourceId": "176",
+    "word": "autocratic",
+    "voice": "matilda_us_female_clear",
+    "file": "034_autocratic.mp3"
+  },
+  {
+    "id": "035",
+    "sourceId": "177",
+    "word": "strongman",
+    "voice": "matilda_us_female_clear",
+    "file": "035_strongman.mp3"
+  },
+  {
+    "id": "036",
+    "sourceId": "179",
+    "word": "autocrat",
+    "voice": "matilda_us_female_clear",
+    "file": "036_autocrat.mp3"
+  },
+  {
+    "id": "037",
+    "sourceId": "230",
+    "word": "destabilise",
+    "voice": "matilda_us_female_clear",
+    "file": "037_destabilise.mp3"
+  },
+  {
+    "id": "038",
+    "sourceId": "249",
+    "word": "illiberal",
+    "voice": "matilda_us_female_clear",
+    "file": "038_illiberal.mp3"
+  },
+  {
+    "id": "039",
+    "sourceId": "262",
+    "word": "stalwart",
+    "voice": "matilda_us_female_clear",
+    "file": "039_stalwart.mp3"
+  },
+  {
+    "id": "040",
+    "sourceId": "280",
+    "word": "warplane",
+    "voice": "matilda_us_female_clear",
+    "file": "040_warplane.mp3"
+  },
+  {
+    "id": "041",
+    "sourceId": "284",
+    "word": "peacekeeper",
+    "voice": "matilda_us_female_clear",
+    "file": "041_peacekeeper.mp3"
+  },
+  {
+    "id": "042",
+    "sourceId": "289",
+    "word": "reparation",
+    "voice": "matilda_us_female_clear",
+    "file": "042_reparation.mp3"
+  },
+  {
+    "id": "043",
+    "sourceId": "292",
+    "word": "reservist",
+    "voice": "matilda_us_female_clear",
+    "file": "043_reservist.mp3"
+  },
+  {
+    "id": "044",
+    "sourceId": "328",
+    "word": "combatant",
+    "voice": "matilda_us_female_clear",
+    "file": "044_combatant.mp3"
+  },
+  {
+    "id": "045",
+    "sourceId": "409",
+    "word": "coercive",
+    "voice": "matilda_us_female_clear",
+    "file": "045_coercive.mp3"
+  },
+  {
+    "id": "046",
+    "sourceId": "412",
+    "word": "defector",
+    "voice": "matilda_us_female_clear",
+    "file": "046_defector.mp3"
+  },
+  {
+    "id": "047",
+    "sourceId": "413",
+    "word": "frenetic",
+    "voice": "matilda_us_female_clear",
+    "file": "047_frenetic.mp3"
+  },
+  {
+    "id": "048",
+    "sourceId": "421",
+    "word": "polarised",
+    "voice": "matilda_us_female_clear",
+    "file": "048_polarised.mp3"
+  },
+  {
+    "id": "049",
+    "sourceId": "423",
+    "word": "ayatollah",
+    "voice": "matilda_us_female_clear",
+    "file": "049_ayatollah.mp3"
+  },
+  {
+    "id": "050",
+    "sourceId": "434",
+    "word": "retaliatory",
+    "voice": "matilda_us_female_clear",
+    "file": "050_retaliatory.mp3"
+  },
+  {
+    "id": "051",
+    "sourceId": "439",
+    "word": "unelected",
+    "voice": "matilda_us_female_clear",
+    "file": "051_unelected.mp3"
+  },
+  {
+    "id": "052",
+    "sourceId": "441",
+    "word": "separatism",
+    "voice": "matilda_us_female_clear",
+    "file": "052_separatism.mp3"
+  },
+  {
+    "id": "053",
+    "sourceId": "455",
+    "word": "irrelevance",
+    "voice": "matilda_us_female_clear",
+    "file": "053_irrelevance.mp3"
+  },
+  {
+    "id": "054",
+    "sourceId": "463",
+    "word": "permissive",
+    "voice": "matilda_us_female_clear",
+    "file": "054_permissive.mp3"
+  },
+  {
+    "id": "055",
+    "sourceId": "472",
+    "word": "buttress",
+    "voice": "matilda_us_female_clear",
+    "file": "055_buttress.mp3"
+  },
+  {
+    "id": "056",
+    "sourceId": "474",
+    "word": "dictatorial",
+    "voice": "matilda_us_female_clear",
+    "file": "056_dictatorial.mp3"
+  },
+  {
+    "id": "057",
+    "sourceId": "475",
+    "word": "howitzer",
+    "voice": "matilda_us_female_clear",
+    "file": "057_howitzer.mp3"
+  },
+  {
+    "id": "058",
+    "sourceId": "478",
+    "word": "disillusion",
+    "voice": "matilda_us_female_clear",
+    "file": "058_disillusion.mp3"
+  },
+  {
+    "id": "059",
+    "sourceId": "483",
+    "word": "lopsided",
+    "voice": "matilda_us_female_clear",
+    "file": "059_lopsided.mp3"
+  },
+  {
+    "id": "060",
+    "sourceId": "485",
+    "word": "defection",
+    "voice": "matilda_us_female_clear",
+    "file": "060_defection.mp3"
+  },
+  {
+    "id": "061",
+    "sourceId": "486",
+    "word": "guarantor",
+    "voice": "matilda_us_female_clear",
+    "file": "061_guarantor.mp3"
+  },
+  {
+    "id": "062",
+    "sourceId": "488",
+    "word": "statecraft",
+    "voice": "matilda_us_female_clear",
+    "file": "062_statecraft.mp3"
+  },
+  {
+    "id": "063",
+    "sourceId": "489",
+    "word": "despotic",
+    "voice": "matilda_us_female_clear",
+    "file": "063_despotic.mp3"
+  },
+  {
+    "id": "064",
+    "sourceId": "493",
+    "word": "occupier",
+    "voice": "matilda_us_female_clear",
+    "file": "064_occupier.mp3"
+  },
+  {
+    "id": "065",
+    "sourceId": "500",
+    "word": "handsomely",
+    "voice": "matilda_us_female_clear",
+    "file": "065_handsomely.mp3"
+  },
+  {
+    "id": "066",
+    "sourceId": "504",
+    "word": "theocracy",
+    "voice": "matilda_us_female_clear",
+    "file": "066_theocracy.mp3"
+  },
+  {
+    "id": "067",
+    "sourceId": "515",
+    "word": "prescient",
+    "voice": "matilda_us_female_clear",
+    "file": "067_prescient.mp3"
+  },
+  {
+    "id": "068",
+    "sourceId": "517",
+    "word": "peacemaker",
+    "voice": "matilda_us_female_clear",
+    "file": "068_peacemaker.mp3"
+  },
+  {
+    "id": "069",
+    "sourceId": "525",
+    "word": "apolitical",
+    "voice": "matilda_us_female_clear",
+    "file": "069_apolitical.mp3"
+  },
+  {
+    "id": "070",
+    "sourceId": "527",
+    "word": "militiaman",
+    "voice": "matilda_us_female_clear",
+    "file": "070_militiaman.mp3"
+  },
+  {
+    "id": "071",
+    "sourceId": "533",
+    "word": "ominously",
+    "voice": "matilda_us_female_clear",
+    "file": "071_ominously.mp3"
+  },
+  {
+    "id": "072",
+    "sourceId": "543",
+    "word": "genocidal",
+    "voice": "matilda_us_female_clear",
+    "file": "072_genocidal.mp3"
+  },
+  {
+    "id": "073",
+    "sourceId": "580",
+    "word": "gerrymander",
+    "voice": "matilda_us_female_clear",
+    "file": "073_gerrymander.mp3"
+  },
+  {
+    "id": "074",
+    "sourceId": "599",
+    "word": "thuggish",
+    "voice": "matilda_us_female_clear",
+    "file": "074_thuggish.mp3"
+  },
+  {
+    "id": "075",
+    "sourceId": "608",
+    "word": "quagmire",
+    "voice": "matilda_us_female_clear",
+    "file": "075_quagmire.mp3"
+  },
+  {
+    "id": "076",
+    "sourceId": "615",
+    "word": "multipolar",
+    "voice": "matilda_us_female_clear",
+    "file": "076_multipolar.mp3"
+  },
+  {
+    "id": "077",
+    "sourceId": "617",
+    "word": "decrepit",
+    "voice": "matilda_us_female_clear",
+    "file": "077_decrepit.mp3"
+  },
+  {
+    "id": "078",
+    "sourceId": "633",
+    "word": "sympathiser",
+    "voice": "matilda_us_female_clear",
+    "file": "078_sympathiser.mp3"
+  },
+  {
+    "id": "079",
+    "sourceId": "634",
+    "word": "flashpoint",
+    "voice": "matilda_us_female_clear",
+    "file": "079_flashpoint.mp3"
+  },
+  {
+    "id": "080",
+    "sourceId": "638",
+    "word": "encampment",
+    "voice": "matilda_us_female_clear",
+    "file": "080_encampment.mp3"
+  },
+  {
+    "id": "081",
+    "sourceId": "642",
+    "word": "rightward",
+    "voice": "matilda_us_female_clear",
+    "file": "081_rightward.mp3"
+  },
+  {
+    "id": "082",
+    "sourceId": "645",
+    "word": "wariness",
+    "voice": "matilda_us_female_clear",
+    "file": "082_wariness.mp3"
+  },
+  {
+    "id": "083",
+    "sourceId": "664",
+    "word": "opportunism",
+    "voice": "matilda_us_female_clear",
+    "file": "083_opportunism.mp3"
+  },
+  {
+    "id": "084",
+    "sourceId": "666",
+    "word": "haphazard",
+    "voice": "matilda_us_female_clear",
+    "file": "084_haphazard.mp3"
+  },
+  {
+    "id": "085",
+    "sourceId": "668",
+    "word": "firebrand",
+    "voice": "matilda_us_female_clear",
+    "file": "085_firebrand.mp3"
+  },
+  {
+    "id": "086",
+    "sourceId": "669",
+    "word": "drubbing",
+    "voice": "matilda_us_female_clear",
+    "file": "086_drubbing.mp3"
+  },
+  {
+    "id": "087",
+    "sourceId": "674",
+    "word": "parlance",
+    "voice": "matilda_us_female_clear",
+    "file": "087_parlance.mp3"
+  },
+  {
+    "id": "088",
+    "sourceId": "712",
+    "word": "unprovoked",
+    "voice": "matilda_us_female_clear",
+    "file": "088_unprovoked.mp3"
+  },
+  {
+    "id": "089",
+    "sourceId": "719",
+    "word": "befriend",
+    "voice": "matilda_us_female_clear",
+    "file": "089_befriend.mp3"
+  },
+  {
+    "id": "090",
+    "sourceId": "744",
+    "word": "kingmaker",
+    "voice": "matilda_us_female_clear",
+    "file": "090_kingmaker.mp3"
+  },
+  {
+    "id": "091",
+    "sourceId": "747",
+    "word": "demagogue",
+    "voice": "matilda_us_female_clear",
+    "file": "091_demagogue.mp3"
+  },
+  {
+    "id": "092",
+    "sourceId": "779",
+    "word": "rearmament",
+    "voice": "matilda_us_female_clear",
+    "file": "092_rearmament.mp3"
+  },
+  {
+    "id": "093",
+    "sourceId": "780",
+    "word": "brazenly",
+    "voice": "matilda_us_female_clear",
+    "file": "093_brazenly.mp3"
+  },
+  {
+    "id": "094",
+    "sourceId": "781",
+    "word": "bellicose",
+    "voice": "matilda_us_female_clear",
+    "file": "094_bellicose.mp3"
+  },
+  {
+    "id": "095",
+    "sourceId": "783",
+    "word": "unsavoury",
+    "voice": "matilda_us_female_clear",
+    "file": "095_unsavoury.mp3"
+  },
+  {
+    "id": "096",
+    "sourceId": "795",
+    "word": "tyrannical",
+    "voice": "matilda_us_female_clear",
+    "file": "096_tyrannical.mp3"
+  },
+  {
+    "id": "097",
+    "sourceId": "798",
+    "word": "salutary",
+    "voice": "matilda_us_female_clear",
+    "file": "097_salutary.mp3"
+  },
+  {
+    "id": "098",
+    "sourceId": "811",
+    "word": "responder",
+    "voice": "matilda_us_female_clear",
+    "file": "098_responder.mp3"
+  },
+  {
+    "id": "099",
+    "sourceId": "818",
+    "word": "militarise",
+    "voice": "matilda_us_female_clear",
+    "file": "099_militarise.mp3"
+  },
+  {
+    "id": "100",
+    "sourceId": "824",
+    "word": "megaphone",
+    "voice": "matilda_us_female_clear",
+    "file": "100_megaphone.mp3"
+  },
+  {
+    "id": "101",
+    "sourceId": "846",
+    "word": "sanction",
+    "voice": "matilda_us_female_clear",
+    "file": "101_sanction.mp3"
+  },
+  {
+    "id": "102",
+    "sourceId": "851",
+    "word": "populist",
+    "voice": "matilda_us_female_clear",
+    "file": "102_populist.mp3"
+  },
+  {
+    "id": "103",
+    "sourceId": "858",
+    "word": "diplomacy",
+    "voice": "matilda_us_female_clear",
+    "file": "103_diplomacy.mp3"
+  },
+  {
+    "id": "104",
+    "sourceId": "862",
+    "word": "sovereignty",
+    "voice": "matilda_us_female_clear",
+    "file": "104_sovereignty.mp3"
+  },
+  {
+    "id": "105",
+    "sourceId": "865",
+    "word": "troop",
+    "voice": "matilda_us_female_clear",
+    "file": "105_troop.mp3"
+  },
+  {
+    "id": "106",
+    "sourceId": "877",
+    "word": "diplomat",
+    "voice": "matilda_us_female_clear",
+    "file": "106_diplomat.mp3"
+  },
+  {
+    "id": "107",
+    "sourceId": "880",
+    "word": "geopolitical",
+    "voice": "matilda_us_female_clear",
+    "file": "107_geopolitical.mp3"
+  },
+  {
+    "id": "108",
+    "sourceId": "889",
+    "word": "regime",
+    "voice": "matilda_us_female_clear",
+    "file": "108_regime.mp3"
+  },
+  {
+    "id": "109",
+    "sourceId": "891",
+    "word": "elite",
+    "voice": "matilda_us_female_clear",
+    "file": "109_elite.mp3"
+  },
+  {
+    "id": "110",
+    "sourceId": "692",
+    "word": "machinegun",
+    "voice": "matilda_us_female_clear",
+    "file": "110_machinegun.mp3"
+  },
+  {
+    "id": "111",
+    "sourceId": "791",
+    "word": "grassroot",
+    "voice": "matilda_us_female_clear",
+    "file": "111_grassroot.mp3"
+  },
+  {
+    "id": "112",
+    "sourceId": "817",
+    "word": "agitator",
+    "voice": "matilda_us_female_clear",
+    "file": "112_agitator.mp3"
+  },
+  {
+    "id": "113",
+    "sourceId": "832",
+    "word": "pluralism",
+    "voice": "matilda_us_female_clear",
+    "file": "113_pluralism.mp3"
+  }
+]
